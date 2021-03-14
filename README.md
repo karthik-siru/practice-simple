@@ -1,4 +1,4 @@
-# practice-simple
+# Intresting-questions .. 
 
 
 Sum Digits Until One

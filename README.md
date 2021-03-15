@@ -50,3 +50,49 @@ Example 1
 <a href = "https://github.com/karthik-siru/practice-simple/blob/main/palindrome_linked_list.py" > Solution </a>
 
 
+Given a linked list node and a non-negative integer k, rotate the list to the right by k places.
+
+Note: The linked list is guaranteed to have at least one element, and k is guaranteed to be less than or equal to the length of the list.
+
+Constraints
+
+    k ≤ n ≤ 100,000 where n is the number of nodes in node
+
+Example 1
+
+Input:
+
+    node = [1, 2, 3, 4]
+    k = 2
+
+Output:
+
+    [3, 4, 1, 2]
+
+Example 2
+
+Input:
+
+    node = [1, 2, 3, 4]
+
+    k = 4
+
+Output:
+
+    [1, 2, 3, 4]
+
+Example 3
+Input
+
+    node = [1, 2, 3, 4]
+    k = 0
+
+Output
+
+    [1, 2, 3, 4]
+    
+    
+ <a href = "https://github.com/karthik-siru/practice-simple/blob/main/rotate_linked_list_by_k.py" > Solution </a>
+
+
+

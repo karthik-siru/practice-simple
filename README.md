@@ -35,5 +35,18 @@ on which finger will she stop?
 <a href = "https://github.com/karthik-siru/practice-simple/blob/main/fingers_count.py" > Solution </a>
 
 
+Given a singly linked list node whose values are integers, determine whether the linked list forms a palindrome.
+
+Constraints
+
+    n ≤ 100,000 where n is the length of node
+
+Example 1 
+   
+  input   --- node = [5, 3, 5]
+  Output  --- True 
+
+
+<a href = "https://github.com/karthik-siru/practice-simple/blob/main/palindrome_linked_list.py" > Solution </a>
 
 

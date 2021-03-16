@@ -1,7 +1,7 @@
 # Intresting-questions .. 
 
 
-**Sum Digits Until One
+<b text-decoration = "underline">Sum Digits Until One</b>
 
 
 We're provided a positive integer num. Can you write a method to repeatedly add all of its digits until the result has only one digit?
@@ -26,7 +26,8 @@ Constraints
 
 ______________________________________________________________________________________________________________
 
-**DARLA-QUESTION
+<b text-decoration = "underline"> DARLA-QUESTION </b>
+
 
 A little girl  darla counts from 1 to 1000 using the fingers of her left hand as
 follows. She starts by calling her thumb 1, the first finger 2, middle finger 3,
@@ -40,8 +41,7 @@ on which finger will she stop?
 
 ____________________________________________________________________________________________________________
 
-**CHECK-PALINDROME-LINKEDLIST
-
+<b text-decoration = "underline">CHECK-PALINDROME-LINKEDLIST</b>
 
 Given a singly linked list node whose values are integers, determine whether the linked list forms a palindrome.
 
@@ -59,7 +59,7 @@ Example 1
 
 _____________________________________________________________________________________________________________________________
 
-**RIGHT-ROTATE-LINKEDLIST-BY K PLACES
+<b text-decoration = "underline">RIGHT-ROTATE-LINKEDLIST-BY K PLACES</b>
 
 
 Given a linked list node and a non-negative integer k, rotate the list to the right by k places.
@@ -108,7 +108,7 @@ Output
 
 ____________________________________________________________________________________________________________________
 
-*****Best-Time-to-Buy-and-Sell-Stock
+<b text-decoration = "underline">Best-Time-to-Buy-and-Sell-Stock</b>
  
  
  

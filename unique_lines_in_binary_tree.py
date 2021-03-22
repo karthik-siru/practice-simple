@@ -4,6 +4,8 @@
 
 Finally after traversing all nodes (and storing all unique positions via the set), return the size of the set .
 
+Note::: I found this good approach in binary_search ... 
+
 '''
 
 def solve(self, root):

@@ -142,3 +142,42 @@ Constraints:
 <a href = "https://github.com/karthik-siru/practice-simple/blob/main/buy_and_sell_stocks.py" > Solution </a>
 
 _______________________________________________________________________________________________________
+
+<b> Vertical Lines in Binary Tree </b>
+
+Given a binary tree root, return the number of unique vertical lines that can be drawn such that every node has a line intersecting it. Each left child is angled at 45 degrees to its left, while the right child is angled at 45 degrees to the right.
+
+For example, root and root.left.right are on the same vertical line.
+
+Constraints
+
+    1 ≤ n ≤ 100,000 where n is the number of nodes in root
+
+Example 1:
+
+Input
+
+       root = [1, [2, [3, null, null], null], [4, null, [5, null, null]]]
+
+Output
+
+       5
+
+Explanation
+
+        There's a unique vertical line over every node.
+        
+Example 2
+Input
+
+      root = [1, null, [2, null, [3, null, [4, null, null]]]]
+
+Output
+   
+     4
+     
+ 
+<a href = "https://github.com/karthik-siru/practice-simple/blob/main/unique_lines_in_binary_tree.py" > Solution </a>
+
+
+________________________________________________________________________________________________________

@@ -26,7 +26,7 @@ Constraints
 
 ______________________________________________________________________________________________________________
 
-<b text-decoration = "underline"> DARLA-QUESTION </b>
+# DARLA-QUESTION
 
 
 A little girl  darla counts from 1 to 1000 using the fingers of her left hand as
@@ -41,7 +41,7 @@ on which finger will she stop?
 
 ____________________________________________________________________________________________________________
 
-<b text-decoration = "underline">CHECK-PALINDROME-LINKEDLIST</b>
+# CHECK-PALINDROME-LINKEDLIST
 
 Given a singly linked list node whose values are integers, determine whether the linked list forms a palindrome.
 
@@ -59,7 +59,7 @@ Example 1
 
 _____________________________________________________________________________________________________________________________
 
-<b text-decoration = "underline">RIGHT-ROTATE-LINKEDLIST-BY K PLACES</b>
+# RIGHT-ROTATE-LINKEDLIST-BY K PLACES
 
 
 Given a linked list node and a non-negative integer k, rotate the list to the right by k places.
@@ -108,7 +108,7 @@ Output
 
 ____________________________________________________________________________________________________________________
 
-<b text-decoration = "underline">Best-Time-to-Buy-and-Sell-Stock</b>
+# Best-Time-to-Buy-and-Sell-Stock
  
  
  
@@ -143,7 +143,7 @@ Constraints:
 
 _______________________________________________________________________________________________________
 
-<b> Vertical Lines in Binary Tree </b>
+# Vertical Lines in Binary Tree 
 
 Given a binary tree root, return the number of unique vertical lines that can be drawn such that every node has a line intersecting it. Each left child is angled at 45 degrees to its left, while the right child is angled at 45 degrees to the right.
 
@@ -182,7 +182,7 @@ Output
 
 ________________________________________________________________________________________________________
 
-Number Spiral
+# Number Spiral
 
     A number spiral is an infinite grid whose upper-left square has number 1. Here are the first five layers of the spiral:
     
@@ -222,12 +222,12 @@ Output:
       1
       15
 
-<a href = "https://cses.fi/problemset/task/1071/" >Question-Source</a>
-<a href = "https://github.com/karthik-siru/practice-simple/blob/main/spr.py" >Solution </a>
+[Question_Source](https://cses.fi/problemset/task/1071/) <br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/spr.py)
 
 ________________________________________________________________________________________________________
 
-Two-Sets :
+# Two-Sets :
 
     Your task is to divide the numbers 1,2,…,n into two sets of equal sum.
 
@@ -274,4 +274,11 @@ ________________________________________________________________________________
 [question_source](https://binarysearch.com/problems/Tree-Pruning) <br>
 [question_pic](https://github.com/karthik-siru/practice-simple/blob/main/tree_pruning.jpg)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/tree_pruning.py)<br>
+________________________________________________________________________________________________________
+
+# Most Frequent Subtree Sum
+
+[question_source](https://binarysearch.com/problems/Most-Frequent-Subtree-Sum) <br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/most_frequent_subtree_sum.py)<br>
+
 ________________________________________________________________________________________________________

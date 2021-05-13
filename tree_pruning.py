@@ -1,3 +1,20 @@
+'''
+Given a binary tree root, prune the tree so that subtrees containing all 0s are removed.
+
+Constraints
+
+n ≤ 100,000 where n is the number of nodes in root
+
+Input
+root = [0, [1, null, null], [0, [1, [0, null, null], [0, null, null]], [0, null, null]]]
+
+Output
+[0, [1, null, null], [0, [1, null, null], null]]
+
+'''
+
+
+
 
 # class Tree:
 #     def __init__(self, val, left=None, right=None):

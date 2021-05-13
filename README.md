@@ -268,3 +268,10 @@ Output:
 <a href = "https://cses.fi/problemset/task/1092/" > Question-Source </a>
 <a href = "https://github.com/karthik-siru/practice-simple/blob/main/2sets.py" > Solution </a>
 ________________________________________________________________________________________________________
+
+# The Tree Pruning .
+
+[question_source](https://binarysearch.com/problems/Tree-Pruning) <br>
+[question_pic](https://github.com/karthik-siru/practice-simple/blob/main/tree_pruning.jpg)<br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/tree_pruning.py)<br>
+________________________________________________________________________________________________________

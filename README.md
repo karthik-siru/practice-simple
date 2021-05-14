@@ -1,7 +1,6 @@
 # Intresting-questions .. 
 
-
-<b text-decoration = "underline">Sum Digits Until One</b>
+## Sum Digits Until One
 
 
 We're provided a positive integer num. Can you write a method to repeatedly add all of its digits until the result has only one digit?
@@ -26,7 +25,7 @@ Constraints
 
 ______________________________________________________________________________________________________________
 
-# DARLA-QUESTION
+## DARLA-QUESTION
 
 
 A little girl  darla counts from 1 to 1000 using the fingers of her left hand as
@@ -41,7 +40,7 @@ on which finger will she stop?
 
 ____________________________________________________________________________________________________________
 
-# CHECK-PALINDROME-LINKEDLIST
+## CHECK-PALINDROME-LINKEDLIST
 
 Given a singly linked list node whose values are integers, determine whether the linked list forms a palindrome.
 
@@ -59,7 +58,7 @@ Example 1
 
 _____________________________________________________________________________________________________________________________
 
-# RIGHT-ROTATE-LINKEDLIST-BY K PLACES
+## RIGHT-ROTATE-LINKEDLIST-BY K PLACES
 
 
 Given a linked list node and a non-negative integer k, rotate the list to the right by k places.
@@ -108,7 +107,7 @@ Output
 
 ____________________________________________________________________________________________________________________
 
-# Best-Time-to-Buy-and-Sell-Stock
+## Best-Time-to-Buy-and-Sell-Stock
  
  
  
@@ -143,7 +142,7 @@ Constraints:
 
 _______________________________________________________________________________________________________
 
-# Vertical Lines in Binary Tree 
+## Vertical Lines in Binary Tree 
 
 Given a binary tree root, return the number of unique vertical lines that can be drawn such that every node has a line intersecting it. Each left child is angled at 45 degrees to its left, while the right child is angled at 45 degrees to the right.
 
@@ -182,7 +181,7 @@ Output
 
 ________________________________________________________________________________________________________
 
-# Number Spiral
+## Number Spiral
 
     A number spiral is an infinite grid whose upper-left square has number 1. Here are the first five layers of the spiral:
     
@@ -227,7 +226,7 @@ Output:
 
 ________________________________________________________________________________________________________
 
-# Two-Sets :
+## Two-Sets :
 
     Your task is to divide the numbers 1,2,…,n into two sets of equal sum.
 
@@ -269,16 +268,23 @@ Output:
 <a href = "https://github.com/karthik-siru/practice-simple/blob/main/2sets.py" > Solution </a>
 ________________________________________________________________________________________________________
 
-# The Tree Pruning .
+## The Tree Pruning .
 
 [question_source](https://binarysearch.com/problems/Tree-Pruning) <br>
 [question_pic](https://github.com/karthik-siru/practice-simple/blob/main/tree_pruning.jpg)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/tree_pruning.py)<br>
 ________________________________________________________________________________________________________
 
-# Most Frequent Subtree Sum
+## Most Frequent Subtree Sum
 
 [question_source](https://binarysearch.com/problems/Most-Frequent-Subtree-Sum) <br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/most_frequent_subtree_sum.py)<br>
 
 ________________________________________________________________________________________________________
+
+## Remove duplicates from the given unsorted liked_list 
+
+[Question_source](https://binarysearch.com/problems/Remove-Duplicates-in-Linked-List)
+[Solution ](https://github.com/karthik-siru/practice-simple/blob/main/remove_duplicates.py)
+
+_________________________________________________________________________________________________________

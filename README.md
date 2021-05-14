@@ -284,7 +284,7 @@ ________________________________________________________________________________
 
 ## Remove duplicates from the given unsorted liked_list 
 
-[Question_source](https://binarysearch.com/problems/Remove-Duplicates-in-Linked-List)
+[Question_source](https://binarysearch.com/problems/Remove-Duplicates-in-Linked-List) <br>
 [Solution ](https://github.com/karthik-siru/practice-simple/blob/main/remove_duplicates.py)
 
 _________________________________________________________________________________________________________

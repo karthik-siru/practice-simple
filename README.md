@@ -288,3 +288,9 @@ ________________________________________________________________________________
 [Solution ](https://github.com/karthik-siru/practice-simple/blob/main/remove_duplicates.py)
 
 _________________________________________________________________________________________________________
+
+## Reverse a linkedlist 
+ 
+[Question SOurce ](https://binarysearch.com/problems/Reverse-a-Linked-List) <br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/reverse_linked_list.py) <br>
+__________________________________________________________________________________________________________

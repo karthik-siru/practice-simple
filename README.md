@@ -307,3 +307,10 @@ ________________________________________________________________________________
 [Question SOurce ](https://leetcode.com/problems/reverse-linked-list-ii/) <br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/reverse_between_linked_list.py) <br>
 __________________________________________________________________________________________________________
+
+## Insert Brackets 
+
+[Question-Source](https://binarysearch.com/problems/Minimum-Bracket-Addition)<br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/insert_brackets.py)<br>
+
+__________________________________________________________________________________________________________

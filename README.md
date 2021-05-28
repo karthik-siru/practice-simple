@@ -5,20 +5,12 @@
 
 We're provided a positive integer num. Can you write a method to repeatedly add all of its digits until the result has only one digit?
 
-Here's an example: if the input was 49, we'd go through the following steps:
-
 // start with 49
 4 + 9 = 13
 
 // move onto 13
 1 + 3 = 4
 We would then return 4.
-
-Constraints
-
-   * Input will be in the range between 0 and 1000000000
-   * Expected time complexity : O(log n)
-   * Expected space complexity : O(1)
    
    
 <a href = "https://github.com/karthik-siru/practice-simple/blob/main/day11.py" > Solution </a>
@@ -89,16 +81,6 @@ Input:
     k = 4
 
 Output:
-
-    [1, 2, 3, 4]
-
-Example 3
-Input
-
-    node = [1, 2, 3, 4]
-    k = 0
-
-Output
 
     [1, 2, 3, 4]
     
@@ -313,4 +295,10 @@ ________________________________________________________________________________
 [Question-Source](https://binarysearch.com/problems/Minimum-Bracket-Addition)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/insert_brackets.py)<br>
 
+__________________________________________________________________________________________________________
+
+## No of ways to get the sum N in dice ( DP problem )
+
+[Question-Source](https://cses.fi/problemset/task/1633/)<br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/dice.py)<br>
 __________________________________________________________________________________________________________

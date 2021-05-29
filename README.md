@@ -302,3 +302,9 @@ ________________________________________________________________________________
 [Question-Source](https://cses.fi/problemset/task/1633/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/dice.py)<br>
 __________________________________________________________________________________________________________
+
+## Trapping-Rain-Water
+
+[Question-Source](https://binarysearch.com/problems/Rain-Catcher)<br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/rain_trap.py)<br>
+____________________________________________________________________________________________________________

@@ -42,3 +42,38 @@ while a <= b :
         b -= 1
 
 print(f'Amount of rain_water trapped is : {rain_water}')
+
+
+
+#another way of doing this :
+
+'''
+  We will decide which pointer to move .. either left or right according to the 
+  left_max and right_max 
+  
+  if left_max  <  right_max :
+       we can add the water to the left and move the left pointer 
+  else :
+       add to the rain_water and move the right pointer 
+
+'''
+
+class Solution:
+    def trap(self, height: List[int]) -> int:
+        n = len(height)
+        a ,b = 0, n -1
+        left_max , right_max = 0, 0
+        rain_water = 0
+        
+        while a < b :
+            if height[a] > left_max :
+                left_max =  height[a]
+            if height[b] > right_max :
+                right_max = height[b]
+            if left_max < right_max :
+                rain_water += left_max-height[a]
+                a += 1
+            else :
+                rain_water += right_max - height[b]
+                b-= 1
+        return rain_water

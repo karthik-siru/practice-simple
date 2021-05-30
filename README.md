@@ -308,3 +308,9 @@ ________________________________________________________________________________
 [Question-Source](https://binarysearch.com/problems/Rain-Catcher)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/rain_trap.py)<br>
 ____________________________________________________________________________________________________________
+
+## Valid Number
+
+[Question-Source](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3744/)<br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/valid_number.py)<br>
+____________________________________________________________________________________________________________

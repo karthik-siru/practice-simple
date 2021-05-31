@@ -320,3 +320,10 @@ ________________________________________________________________________________
 ### with infinite transactions 
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/buy_and_sell_stocks_infinite.py)<br>
 ____________________________________________________________________________________________________________
+
+## Sprial traversal of the matrix 
+
+[Question-Source](https://binarysearch.com/problems/Spiral-Matrix)<br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/matrix_spiral.py)<br>
+
+____________________________________________________________________________________________________________

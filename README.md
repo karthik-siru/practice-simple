@@ -314,3 +314,9 @@ ________________________________________________________________________________
 [Question-Source](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3744/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/valid_number.py)<br>
 ____________________________________________________________________________________________________________
+
+## Best time to buy and sell stocks 
+
+### with infinite transactions 
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/buy_and_sell_stocks_infinite.py)<br>
+____________________________________________________________________________________________________________

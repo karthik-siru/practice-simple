@@ -319,6 +319,9 @@ ________________________________________________________________________________
 
 ### with infinite transactions 
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/buy_and_sell_stocks_infinite.py)<br>
+
+### with atmost 2 transactions ( generalised k transactions also included )
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/buy_and_sell_stocks_atmost_2.py)<br>
 ____________________________________________________________________________________________________________
 
 ## Sprial traversal of the matrix 

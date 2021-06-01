@@ -330,3 +330,10 @@ ________________________________________________________________________________
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/matrix_spiral.py)<br>
 
 ____________________________________________________________________________________________________________
+
+## Maximum area island 
+
+[Question-Source](https://leetcode.com/problems/max-area-of-island/)<br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/max_island.py)<br>
+
+____________________________________________________________________________________________________________

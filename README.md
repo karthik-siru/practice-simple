@@ -337,3 +337,9 @@ ________________________________________________________________________________
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/max_island.py)<br>
 
 ____________________________________________________________________________________________________________
+
+## Minimum Path Sum 
+
+[Question-Source](https://leetcode.com/problems/minimum-path-sum/)<br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/min_path_sum.py)<br>
+____________________________________________________________________________________________________________

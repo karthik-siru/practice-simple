@@ -343,3 +343,9 @@ ________________________________________________________________________________
 [Question-Source](https://leetcode.com/problems/minimum-path-sum/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/min_path_sum.py)<br>
 ____________________________________________________________________________________________________________
+
+## Word Break 
+
+[Question-Source](https://binarysearch.com/problems/Break-String-Into-Words)<br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/word_break.py)<br>
+____________________________________________________________________________________________________________

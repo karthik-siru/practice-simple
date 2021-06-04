@@ -349,3 +349,10 @@ ________________________________________________________________________________
 [Question-Source](https://binarysearch.com/problems/Break-String-Into-Words)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/word_break.py)<br>
 ____________________________________________________________________________________________________________
+
+## Consecutive Wins  ( Dynamic-Programming )
+
+[Question-Source](https://binarysearch.com/problems/Consecutive-Wins)<br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/consecutive_wins.py)<br>
+
+____________________________________________________________________________________________________________

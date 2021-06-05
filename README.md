@@ -36,16 +36,6 @@ ________________________________________________________________________________
 
 Given a singly linked list node whose values are integers, determine whether the linked list forms a palindrome.
 
-Constraints
-
-    n ≤ 100,000 where n is the length of node
-
-Example 1 
-   
-  input   --- node = [5, 3, 5]
-  Output  --- True 
-
-
 <a href = "https://github.com/karthik-siru/practice-simple/blob/main/palindrome_linked_list.py" > Solution </a>
 
 _____________________________________________________________________________________________________________________________
@@ -57,11 +47,6 @@ Given a linked list node and a non-negative integer k, rotate the list to the ri
 
 Note: The linked list is guaranteed to have at least one element, and k is guaranteed to be less than or equal to the length of the list.
 
-Constraints
-
-    k ≤ n ≤ 100,000 where n is the number of nodes in node
-
-Example 1
 
 Input:
 
@@ -71,18 +56,6 @@ Input:
 Output:
 
     [3, 4, 1, 2]
-
-Example 2
-
-Input:
-
-    node = [1, 2, 3, 4]
-
-    k = 4
-
-Output:
-
-    [1, 2, 3, 4]
     
     
  <a href = "https://github.com/karthik-siru/practice-simple/blob/main/rotate_linked_list_by_k.py" > Solution </a>
@@ -98,26 +71,6 @@ You are given an array prices where prices[i] is the price of a given stock on t
 You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
 
 Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
-
- 
-
-Example 1:
-
-    Input: prices = [7,1,5,3,6,4]
-    Output: 5
-    Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
-    Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
-    
-Example 2:
-
-    Input: prices = [7,6,4,3,1]
-    Output: 0
-    Explanation: In this case, no transactions are done and the max profit = 0.
- 
-Constraints:
-
-    1 <= prices.length <= 105
-    0 <= prices[i] <= 104
 
 
 <a href = "https://github.com/karthik-siru/practice-simple/blob/main/buy_and_sell_stocks.py" > Solution </a>
@@ -144,64 +97,11 @@ Output
 
        5
 
-Explanation
-
-        There's a unique vertical line over every node.
-        
-Example 2
-Input
-
-      root = [1, null, [2, null, [3, null, [4, null, null]]]]
-
-Output
-   
-     4
-     
- 
 <a href = "https://github.com/karthik-siru/practice-simple/blob/main/unique_lines_in_binary_tree.py" > Solution </a>
-
 
 ________________________________________________________________________________________________________
 
 ## Number Spiral
-
-    A number spiral is an infinite grid whose upper-left square has number 1. Here are the first five layers of the spiral:
-    
-                1   2   9   10  25
-                4   3   8   11  24
-                5   6   7   12  23
-                16  15  14  13  22
-                17  18  19  20  21
-    
-    Your task is to find out the number in row y and column x.
-
-Input
-
-    The first input line contains an integer t: the number of tests.
-
-    After this, there are t lines, each containing integers y and x.
-
-Output
-
-    For each test, print the number in row y and column x.
-
-Constraints
-
-     1≤t≤105
-     1≤y,x≤109
-     
-Input:
-      
-      3
-      2 3
-      1 1
-      4 2
-
-Output:
-
-      8
-      1
-      15
 
 [Question_Source](https://cses.fi/problemset/task/1071/) <br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/spr.py)
@@ -209,42 +109,6 @@ Output:
 ________________________________________________________________________________________________________
 
 ## Two-Sets :
-
-    Your task is to divide the numbers 1,2,…,n into two sets of equal sum.
-
-Input
-
-    The only input line contains an integer n.
-
-Output
-
-    Print "YES", if the division is possible, and "NO" otherwise.
-
-    After this, if the division is possible, print an example of how to create the sets. First, print the number of elements in the first set followed by the      elements themselves in a separate line, and then, print the second set in a similar way.
-
-Constraints
-
-    1≤n≤106
-Example 1
-
-Input:
-
-    7
-Output:
-
-    YES
-    4
-    1 2 4 7
-    3
-    3 5 6
-
-Example 2
-Input:
-
-    6
-Output:
-
-    NO
 
 <a href = "https://cses.fi/problemset/task/1092/" > Question-Source </a>
 <a href = "https://github.com/karthik-siru/practice-simple/blob/main/2sets.py" > Solution </a>

@@ -290,12 +290,17 @@ ________________________________________________________________________________
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/reverse_between_linked_list.py) <br>
 __________________________________________________________________________________________________________
 
-## Remove duplicates in a sorted linked list 
+## Remove duplicates and return the nodes with no duplicates  in a sorted linked list 
 
 [Question-Source](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/remove_duplicates_sorted_ll.py)<br>
 ___________________________________________________________________________________________________________
 
+## Cycle-Detection-in-Linked-list 
+
+[Question-Source](https://leetcode.com/problems/linked-list-cycle/)<br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/cycle_detection.py)<br>
+_________________________________________________________________________________________________________
 ## Insert Brackets 
 
 [Question-Source](https://binarysearch.com/problems/Minimum-Bracket-Addition)<br>

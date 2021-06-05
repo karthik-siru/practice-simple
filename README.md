@@ -309,6 +309,13 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 
+## Remove Brackets 
+
+[Question-Source](https://binarysearch.com/problems/Removing-Parentheses)<br>
+[SOlution](https://github.com/karthik-siru/practice-simple/blob/main/remove-brackets.py)<br>
+
+__________________________________________________________________________________________________________
+
 ## No of ways to get the sum N in dice ( DP problem )
 
 [Question-Source](https://cses.fi/problemset/task/1633/)<br>

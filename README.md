@@ -300,6 +300,7 @@ ________________________________________________________________________________
 
 [Question-Source](https://leetcode.com/problems/linked-list-cycle/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/cycle_detection.py)<br>
+[Floyd-tortoise and hare](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare)<br>
 _________________________________________________________________________________________________________
 ## Insert Brackets 
 

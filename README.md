@@ -251,3 +251,9 @@ ________________________________________________________________________________
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/consecutive_wins.py)<br>
 
 ____________________________________________________________________________________________________________
+
+## Kth largest element in the array 
+
+[Question-Source](https://leetcode.com/problems/kth-largest-element-in-an-array/)<br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/k_th_largest.py)<br>
+____________________________________________________________________________________________________________

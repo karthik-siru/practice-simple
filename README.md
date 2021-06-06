@@ -172,6 +172,12 @@ ________________________________________________________________________________
 [Question-Source](https://binarysearch.com/problems/Swap-Kth-Node-Values)<br>
 [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/swap_kth_nodes.py)<br>
 _________________________________________________________________________________________________________
+
+## Back to Front Linked List
+
+[Question-Source](https://binarysearch.com/problems/Back-to-Front-Linked-List)<br>
+[Soluton](https://github.com/karthik-siru/practice-simple/blob/main/back_and_front.py)<br>
+_________________________________________________________________________________________________________
 ## Insert Brackets 
 
 [Question-Source](https://binarysearch.com/problems/Minimum-Bracket-Addition)<br>

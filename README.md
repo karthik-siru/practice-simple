@@ -166,6 +166,12 @@ ________________________________________________________________________________
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/cycle_detection.py)<br>
 [Floyd-tortoise and hare](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare)<br>
 _________________________________________________________________________________________________________
+
+## Swap kth nodes from begining and end in linked-list 
+
+[Question-Source](https://binarysearch.com/problems/Swap-Kth-Node-Values)<br>
+[Soluton](https://github.com/karthik-siru/practice-simple/blob/main/swap_kth_nodes.py)<br>
+_________________________________________________________________________________________________________
 ## Insert Brackets 
 
 [Question-Source](https://binarysearch.com/problems/Minimum-Bracket-Addition)<br>

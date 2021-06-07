@@ -176,7 +176,7 @@ ________________________________________________________________________________
 ## Back to Front Linked List
 
 [Question-Source](https://binarysearch.com/problems/Back-to-Front-Linked-List)<br>
-[Soluton](https://github.com/karthik-siru/practice-simple/blob/main/back_and_front.py)<br>
+[Soluton](https://github.com/karthik-siru/practice-simple/blob/main/back_to_front.py)<br>
 _________________________________________________________________________________________________________
 ## Insert Brackets 
 

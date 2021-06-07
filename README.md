@@ -263,3 +263,10 @@ ________________________________________________________________________________
 [Question-Source](https://leetcode.com/problems/min-cost-climbing-stairs/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/min_cost_climbing.py)<br>
 ____________________________________________________________________________________________________________
+
+## Number of 1's in binary representation of a number (Dynamic -programming )
+
+[Question-SOurce](https://leetcode.com/problems/counting-bits/)<br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/1_s_in_n.py)<br>
+
+_____________________________________________________________________________________________________________

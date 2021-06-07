@@ -252,8 +252,14 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________
 
-## Kth largest element in the array 
+## Kth largest element in the array ( Non-heap-approach  ) 
 
 [Question-Source](https://leetcode.com/problems/kth-largest-element-in-an-array/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/k_th_largest.py)<br>
+____________________________________________________________________________________________________________
+
+## Min-value path to reach the top floor  ( Dynamic-programming  )
+
+[Question-Source](https://leetcode.com/problems/min-cost-climbing-stairs/)<br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/min_cost_climbing.py)<br>
 ____________________________________________________________________________________________________________

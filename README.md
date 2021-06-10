@@ -270,3 +270,8 @@ ________________________________________________________________________________
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/1_s_in_n.py)<br>
 
 _____________________________________________________________________________________________________________
+## Matrix-Search-Sequel
+
+[Question-SOurce](https://binarysearch.com/problems/Matrix-Search-Sequel)<br>
+[SOlution](https://github.com/karthik-siru/practice-simple/blob/main/matrix_search_sequel.py)<br>
+_____________________________________________________________________________________________________________

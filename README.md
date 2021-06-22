@@ -165,50 +165,50 @@ ________________________________________________________________________________
 [Question-Source](https://leetcode.com/problems/linked-list-cycle/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/cycle_detection.py)<br>
 [Floyd-tortoise and hare](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare)<br>
-_________________________________________________________________________________________________________
+__________
 
 ## Swap kth nodes from begining and end in linked-list 
 
 [Question-Source](https://binarysearch.com/problems/Swap-Kth-Node-Values)<br>
 [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/swap_kth_nodes.py)<br>
-_________________________________________________________________________________________________________
+____
 
 ## Back to Front Linked List
 
 [Question-Source](https://binarysearch.com/problems/Back-to-Front-Linked-List)<br>
 [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/back_to_front.py)<br>
-_________________________________________________________________________________________________________
+__________
 ## Insert Brackets 
 
 [Question-Source](https://binarysearch.com/problems/Minimum-Bracket-Addition)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/insert_brackets.py)<br>
 
-__________________________________________________________________________________________________________
+________
 
 ## Remove Brackets 
 
 [Question-Source](https://binarysearch.com/problems/Removing-Parentheses)<br>
 [SOlution](https://github.com/karthik-siru/practice-simple/blob/main/remove-brackets.py)<br>
 
-__________________________________________________________________________________________________________
+______
 
 ## No of ways to get the sum N in dice ( DP problem )
 
 [Question-Source](https://cses.fi/problemset/task/1633/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/dice.py)<br>
-__________________________________________________________________________________________________________
+_________
 
 ## Trapping-Rain-Water
 
 [Question-Source](https://binarysearch.com/problems/Rain-Catcher)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/rain_trap.py)<br>
-____________________________________________________________________________________________________________
+__________
 
 ## Valid Number
 
 [Question-Source](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3744/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/valid_number.py)<br>
-____________________________________________________________________________________________________________
+_______
 
 ## Best time to buy and sell stocks 
 
@@ -217,61 +217,66 @@ ________________________________________________________________________________
 
 ### with atmost 2 transactions ( generalised k transactions also included )
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/buy_and_sell_stocks_atmost_2.py)<br>
-____________________________________________________________________________________________________________
+_____________
 
 ## Sprial traversal of the matrix 
 
 [Question-Source](https://binarysearch.com/problems/Spiral-Matrix)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/matrix_spiral.py)<br>
 
-____________________________________________________________________________________________________________
+___________
 
 ## Maximum area island 
 
 [Question-Source](https://leetcode.com/problems/max-area-of-island/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/max_island.py)<br>
 
-____________________________________________________________________________________________________________
+__________
 
 ## Minimum Path Sum 
 
 [Question-Source](https://leetcode.com/problems/minimum-path-sum/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/min_path_sum.py)<br>
-____________________________________________________________________________________________________________
+________
 
 ## Word Break 
 
 [Question-Source](https://binarysearch.com/problems/Break-String-Into-Words)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/word_break.py)<br>
-____________________________________________________________________________________________________________
+__________
 
 ## Consecutive Wins  ( Dynamic-Programming )
 
 [Question-Source](https://binarysearch.com/problems/Consecutive-Wins)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/consecutive_wins.py)<br>
 
-____________________________________________________________________________________________________________
+__________
 
 ## Kth largest element in the array ( Non-heap-approach  ) 
 
 [Question-Source](https://leetcode.com/problems/kth-largest-element-in-an-array/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/k_th_largest.py)<br>
-____________________________________________________________________________________________________________
+_____
 
 ## Min-value path to reach the top floor  ( Dynamic-programming  )
 
 [Question-Source](https://leetcode.com/problems/min-cost-climbing-stairs/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/min_cost_climbing.py)<br>
-____________________________________________________________________________________________________________
+_____
 
 ## Number of 1's in binary representation of a number (Dynamic -programming )
 
 [Question-SOurce](https://leetcode.com/problems/counting-bits/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/1_s_in_n.py)<br>
 
-_____________________________________________________________________________________________________________
+_______
+
+## House -Robbing (Dynamic -Programming)
+[]()<br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/house_robbing.py)<br>
+________
 ## Matrix-Search-Sequel
 
 [Question-SOurce](https://binarysearch.com/problems/Matrix-Search-Sequel)<br>
 [SOlution](https://github.com/karthik-siru/practice-simple/blob/main/matrix_search_sequel.py)<br>
-_____________________________________________________________________________________________________________
+________

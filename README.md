@@ -280,3 +280,10 @@ ________
 [Question-SOurce](https://binarysearch.com/problems/Matrix-Search-Sequel)<br>
 [SOlution](https://github.com/karthik-siru/practice-simple/blob/main/matrix_search_sequel.py)<br>
 ________
+
+## Strings :
+
+ 10. All the permutations of the string 
+     [Question_Source](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) <br>
+     [Solution] (https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_10.py)<br>
+     [Pic] (https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_10_pic.jpg)

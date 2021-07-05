@@ -283,7 +283,11 @@ ________
 
 ## Strings :
 
- 10. All the permutations of the string 
+ 10. All the permutations of the string <br> 
      [Question_Source](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) <br>
-     [Solution] (https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_10.py)<br>
-     [Pic] (https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_10_pic.jpg)
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_10.py)<br>
+     [Pic](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_10_pic.jpg)
+
+ 41. Isomorphic Strings <br> 
+      [Question_Source](https://practice.geeksforgeeks.org/problems/isomorphic-strings/0)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_41.py)<br>

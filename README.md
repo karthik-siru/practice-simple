@@ -283,6 +283,14 @@ ________
 
 ## Strings :
 
+ 4. Rotating the string  <br> 
+      [Question_Source](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_4.py)<br>
+
+ 9. All Subsequence of the strings  <br> 
+      [Question_Source](https://www.geeksforgeeks.org/print-subsequences-string/)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_9.py)<br>
+
  10. All the permutations of the string <br> 
      [Question_Source](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) <br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_10.py)<br>

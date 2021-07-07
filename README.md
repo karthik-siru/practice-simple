@@ -233,48 +233,59 @@ ___________
 
 __________
 
-## Minimum Path Sum 
+## Dynamic-Programming :
 
-[Question-Source](https://leetcode.com/problems/minimum-path-sum/)<br>
-[Solution](https://github.com/karthik-siru/practice-simple/blob/main/min_path_sum.py)<br>
+ ### Minimum Path Sum 
+
+ [Question-Source](https://leetcode.com/problems/minimum-path-sum/)<br>
+ [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/min_path_sum.py)<br>
 ________
 
-## Word Break 
+ ### Word Break 
 
-[Question-Source](https://binarysearch.com/problems/Break-String-Into-Words)<br>
-[Solution](https://github.com/karthik-siru/practice-simple/blob/main/word_break.py)<br>
+  [Question-Source](https://binarysearch.com/problems/Break-String-Into-Words)<br>
+  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/word_break.py)<br>
 __________
 
-## Consecutive Wins  ( Dynamic-Programming )
+ ### Consecutive Wins  
 
-[Question-Source](https://binarysearch.com/problems/Consecutive-Wins)<br>
-[Solution](https://github.com/karthik-siru/practice-simple/blob/main/consecutive_wins.py)<br>
+  [Question-Source](https://binarysearch.com/problems/Consecutive-Wins)<br>
+  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/consecutive_wins.py)<br>
 
 __________
 
-## Kth largest element in the array ( Non-heap-approach  ) 
+ ### Kth largest element in the array 
 
-[Question-Source](https://leetcode.com/problems/kth-largest-element-in-an-array/)<br>
-[Solution](https://github.com/karthik-siru/practice-simple/blob/main/k_th_largest.py)<br>
+  [Question-Source](https://leetcode.com/problems/kth-largest-element-in-an-array/)<br>
+  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/k_th_largest.py)<br>
 _____
 
-## Min-value path to reach the top floor  ( Dynamic-programming  )
+ ### Min-value path to reach the top floor  
 
-[Question-Source](https://leetcode.com/problems/min-cost-climbing-stairs/)<br>
-[Solution](https://github.com/karthik-siru/practice-simple/blob/main/min_cost_climbing.py)<br>
+  [Question-Source](https://leetcode.com/problems/min-cost-climbing-stairs/)<br>
+  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/min_cost_climbing.py)<br>
 _____
 
-## Number of 1's in binary representation of a number (Dynamic -programming )
+ ### Number of 1's in binary representation of a number 
 
-[Question-SOurce](https://leetcode.com/problems/counting-bits/)<br>
-[Solution](https://github.com/karthik-siru/practice-simple/blob/main/1_s_in_n.py)<br>
+  [Question-SOurce](https://lehttps://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1#etcode.com/problems/counting-bits/)<br>
+  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/1_s_in_n.py)<br>
 
 _______
 
-## House -Robbing (Dynamic -Programming)
-[]()<br>
-[Solution](https://github.com/karthik-siru/practice-simple/blob/main/house_robbing.py)<br>
+ ### House -Robbing 
+  [Question-Source]()<br>
+  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/house_robbing.py)<br>
+
 ________
+
+ ### Largest Sum of Non-Adjacent Numbers 
+  [Question-Source](https://binarysearch.com/problems/Largest-Sum-of-Non-Adjacent-Numbers)<br>
+  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/longest_non_adj.py)<br>
+
+________
+
+
 ## Matrix-Search-Sequel
 
 [Question-SOurce](https://binarysearch.com/problems/Matrix-Search-Sequel)<br>
@@ -287,14 +298,27 @@ ________
       [Question_Source](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_4.py)<br>
 
+ 6. Count and Say :  <br> 
+      [Question_Source](https://leetcode.com/problems/count-and-say/)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_6.py)<br>
+
+ 7. Longest Palindrome Substring:  <br> 
+      [Question_Source](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_7.py)<br>
+
  9. All Subsequence of the strings  <br> 
       [Question_Source](https://www.geeksforgeeks.org/print-subsequences-string/)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_9.py)<br>
 
+
  10. All the permutations of the string <br> 
-     [Question_Source](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) <br>
-     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_10.py)<br>
-     [Pic](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_10_pic.jpg)
+      [Question_Source](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) <br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_10.py)<br>
+      [Pic](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_10_pic.jpg)
+      
+ 15. Balanced paranthesis <br> 
+      [Question_Source](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_15.py)<br>
 
  41. Isomorphic Strings <br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/isomorphic-strings/0)<br>

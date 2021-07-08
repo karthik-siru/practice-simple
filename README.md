@@ -248,7 +248,9 @@ ________
  ### Word Break 
 
   [Question-Source](https://binarysearch.com/problems/Break-String-Into-Words)<br>
-  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/word_break.py)<br>
+  [Solution-Recursion](https://github.com/karthik-siru/practice-simple/blob/main/DP/word_break.py)<br>
+  [Solution-DP](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_16.py)<br>
+  [Pic](https://github.com/karthik-siru/practice-simple/blob/main/strings/word_break.png.py)<br>
 __________
 
  ### Consecutive Wins  
@@ -336,6 +338,11 @@ ________
       [Question_Source](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_15.py)<br>
 
+ 16. Word Break  <br> 
+      [Question_Source](https://practice.geeksforgeeks.org/problems/word-break1352/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_16.py)<br>
+      [Pic](https://github.com/karthik-siru/practice-simple/blob/main/strings/word_break.png.py)<br>
+
  18. Longest prefix and suffix :<br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1#)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_18.py)<br>
@@ -364,3 +371,7 @@ ________
  41. Isomorphic Strings <br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/isomorphic-strings/0)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_41.py)<br>
+
+ 43. Longest balanced subsequence : <br> 
+      [Question_Source](https://binarysearch.com/problems/Length-of-Longest-Balanced-Subsequence)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/bin1.py)<br>

@@ -241,6 +241,10 @@ __________
  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/min_path_sum.py)<br>
 ________
 
+ ### Edit Distance :
+   [Question_Source](https://practice.geeksforgeeks.org/problems/edit-distance3702/1#)<br>
+   [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_13.py)<br>
+
  ### Word Break 
 
   [Question-Source](https://binarysearch.com/problems/Break-String-Into-Words)<br>
@@ -318,9 +322,15 @@ ________
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_10.py)<br>
       [Pic](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_10_pic.jpg)
 
+ 13. Edit Distance : <br> 
+      [Question_Source](https://practice.geeksforgeeks.org/problems/edit-distance3702/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_13.py)<br>
+
  14. Next greater permutation: <br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_14.py)<br>
+
+
       
  15. Balanced paranthesis <br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)<br>
@@ -330,14 +340,26 @@ ________
       [Question_Source](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1#)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_18.py)<br>
 
+ 26. Longest Common Prefix :<br> 
+      [Question_Source](https://leetcode.com/problems/longest-common-prefix/)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_26.py)<br>
+
 
  28. First Rrepeated word in string:<br> 
       [Question_Source](https://www.geeksforgeeks.org/goldman-sachs-interview-experience-set-29-internship/)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_28.py)<br>
 
- 34. Minimumm characters added to make string pallindrome (in the front) :<br> 
+ 28. Minimum number of swaps to make brackets balanced :<br> 
+      [Question_Source](https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing2704/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_29.py)<br>
+
+ 34. Minimum characters added to make string palindrome (in the front) :<br> 
       [Question_Source](https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_34.py)<br>
+
+ 35. Print Anagrams together : <br> 
+      [Question_Source](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_35.py)<br>
 
  41. Isomorphic Strings <br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/isomorphic-strings/0)<br>

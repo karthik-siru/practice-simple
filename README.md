@@ -286,6 +286,8 @@ ________
 ________
 
 
+
+
 ## Matrix-Search-Sequel
 
 [Question-SOurce](https://binarysearch.com/problems/Matrix-Search-Sequel)<br>
@@ -315,10 +317,27 @@ ________
       [Question_Source](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) <br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_10.py)<br>
       [Pic](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_10_pic.jpg)
+
+ 14. Next greater permutation: <br> 
+      [Question_Source](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_14.py)<br>
       
  15. Balanced paranthesis <br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_15.py)<br>
+
+ 18. Longest prefix and suffix :<br> 
+      [Question_Source](https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_18.py)<br>
+
+
+ 28. First Rrepeated word in string:<br> 
+      [Question_Source](https://www.geeksforgeeks.org/goldman-sachs-interview-experience-set-29-internship/)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_28.py)<br>
+
+ 34. Minimumm characters added to make string pallindrome (in the front) :<br> 
+      [Question_Source](https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_34.py)<br>
 
  41. Isomorphic Strings <br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/isomorphic-strings/0)<br>

@@ -21,7 +21,8 @@ We can insert ((( to the front and )) to the end
 '''
   The minimum number of brackets to be inserted is also the number of brackets to close on the right plus the number of brackets to open on the left.
 
-We can use a right  that keeps track of how many open parenthesis should be closed. If we see a closing bracket while our stack is empty, we add one to a counter, this counter represents the number of brackets to open on the left.
+We can use a right  that keeps track of how many open parenthesis should be closed. If we see a closing bracket while our stack is empty,
+we add one to a counter, this counter represents the number of brackets to open on the left.
 
 Adding the counter and the right  gives the result.
 

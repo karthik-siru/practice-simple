@@ -291,6 +291,11 @@ ________
 
 ________
 
+  ### Longest Palindromic subsequence : 
+  [Question_Source](https://binarysearch.com/problems/Length-of-Longest-Balanced-Subsequence)<br>
+  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/let1.py)<br>
+
+________
 
 
 
@@ -352,13 +357,17 @@ ________
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_26.py)<br>
 
 
- 28. First Rrepeated word in string:<br> 
+ 28. First Repeated word in string:<br> 
       [Question_Source](https://www.geeksforgeeks.org/goldman-sachs-interview-experience-set-29-internship/)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_28.py)<br>
 
  28. Minimum number of swaps to make brackets balanced :<br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing2704/1#)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_29.py)<br>
+
+ 32. Smallest window for all distinct elements in the string <br> 
+      [Question_Source](https://practice.geeksforgeeks.org/problems/smallest-distant-window3132/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_32.py)<br>
 
  34. Minimum characters added to make string palindrome (in the front) :<br> 
       [Question_Source](https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/)<br>
@@ -375,3 +384,8 @@ ________
  43. Longest balanced subsequence : <br> 
       [Question_Source](https://binarysearch.com/problems/Length-of-Longest-Balanced-Subsequence)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/bin1.py)<br>
+
+ 44. Longest Palindromic subsequence : <br> 
+      [Question_Source](https://binarysearch.com/problems/Length-of-Longest-Balanced-Subsequence)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/let1.py)<br>
+ 

@@ -336,8 +336,6 @@ ________
  14. Next greater permutation: <br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_14.py)<br>
-
-
       
  15. Balanced paranthesis <br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)<br>
@@ -387,5 +385,13 @@ ________
 
  44. Longest Palindromic subsequence : <br> 
       [Question_Source](https://binarysearch.com/problems/Length-of-Longest-Balanced-Subsequence)<br>
-      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/let1.py)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/let_1.py)<br>
+
+ 45. Number of unique 3 letter palindromic sunsequences :<br> 
+      [Question_Source](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/let_2.py)<br>
  
+ 46. Rotation Groups :<br> 
+      [Question_Source](https://binarysearch.com/problems/Rotation-Groups)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/bin_2.py)<br>
+      

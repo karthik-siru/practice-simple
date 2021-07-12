@@ -236,66 +236,81 @@ __________
 
 ## Dynamic-Programming :
 
-1.Minimum Path Sum 
+1. Minimum Path Sum <br>
      [Question-Source](https://leetcode.com/problems/minimum-path-sum/)<br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/min_path_sum.py)<br>
 
 
-2.Edit Distance :
+2. Edit Distance :<br>
      [Question_Source](https://practice.geeksforgeeks.org/problems/edit-distance3702/1#)<br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_13.py)<br>
 
-3.Word Break 
+3. Word Break <br>
      [Question-Source](https://binarysearch.com/problems/Break-String-Into-Words)<br>
      [Solution-Recursion](https://github.com/karthik-siru/practice-simple/blob/main/DP/word_break.py)<br>
      [Solution-DP](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_16.py)<br>
      [Pic](https://github.com/karthik-siru/practice-simple/blob/main/strings/word_break.png.py)<br>
 
-4.Consecutive Wins  
+4. Consecutive Wins<br>
     [Question-Source](https://binarysearch.com/problems/Consecutive-Wins)<br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/consecutive_wins.py)<br>
 
-5.Kth largest element in the array 
+5. Kth largest element in the array<br>
     [Question-Source](https://leetcode.com/problems/kth-largest-element-in-an-array/)<br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/k_th_largest.py)<br>
 
 
-6.Min-value path to reach the top floor   
+6. Min-value path to reach the top floor<br>
     [Question-Source](https://leetcode.com/problems/min-cost-climbing-stairs/)<br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/min_cost_climbing.py)<br>
 
 
-7.Number of 1's in binary representation of a number 
+7. Number of 1's in binary representation of a number<br>
     [Question-SOurce](https://lehttps://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1#etcode.com/problems/counting-bits/)<br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/1_s_in_n.py)<br>
 
 
-8.House -Robbing 
+8. House -Robbing <br>
     [Question-Source]()<br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/house_robbing.py)<br>
 
-9.Largest Sum of Non-Adjacent Numbers 
+9. Largest Sum of Non-Adjacent Numbers <br>
     [Question-Source](https://binarysearch.com/problems/Largest-Sum-of-Non-Adjacent-Numbers)<br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/longest_non_adj.py)<br>
 
 
-10.Longest Palindromic subsequence : 
+10. Longest Palindromic subsequence :<br>
     [Question_Source](https://binarysearch.com/problems/Length-of-Longest-Balanced-Subsequence)<br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/let1.py)<br>
 
-11.Optimal strategy for the game  : 
+11. Optimal strategy for the game  : <br>
    [Question_Source](https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/)<br>
    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_38.py)<br>
 
-12.Rod Cutting  : 
+12. Rod Cutting  : <br>
     [Question_Source](https://binarysearch.com/problems/Rod-Cutting)<br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/61.py)<br>
 
-13.Painting_Fence  : 
+13. Painting_Fence  : <br>
     [Question_Source](https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1#)<br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_11.py)<br>
     [Pic](https://github.com/karthik-siru/practice-simple/blob/main/DP/painting_fences.png)<br>
 
+14. Min Coins Change  : <br>
+    [Question_Source](https://leetcode.com/problems/coin-change/)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_62.py)<br>
+
+15. Distinct ways to make amount using coins <br>
+    [Question_Source](https://leetcode.com/problems/coin-change-2/)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_0.py)<br>
+
+16. 0/1 - KNAPSACK <br>
+    [Question_Source](https://leetcode.com/problems/coin-change-2/)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_0.py)<br>
+
+17. Equal Sum Subset <br>
+    [Question_Source](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1#)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_7.py)<br>
 ______
 
 ## Matrix-Search-Sequel
@@ -386,7 +401,7 @@ ________
       [Question_Source](https://binarysearch.com/problems/Length-of-Longest-Balanced-Subsequence)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/let_1.py)<br>
 
- 45. Number of unique 3 letter palindromic sunsequences :<br> 
+ 45. Number of unique 3 letter palindromic subsequences :<br> 
       [Question_Source](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/let_2.py)<br>
  

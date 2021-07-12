@@ -1,8 +1,4 @@
 
-''' 
-
-'''
-
 
 #Function to find the maximum possible amount of money we can win.
 def optimalStrategyOfGame(arr, n):

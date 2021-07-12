@@ -263,7 +263,7 @@ __________
  ### Kth largest element in the array 
 
   [Question-Source](https://leetcode.com/problems/kth-largest-element-in-an-array/)<br>
-  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/k_th_largest.py)<br>
+  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/k_th_largest.py)<br>
 _____
 
  ### Min-value path to reach the top floor  
@@ -295,6 +295,22 @@ ________
   [Question_Source](https://binarysearch.com/problems/Length-of-Longest-Balanced-Subsequence)<br>
   [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/let1.py)<br>
 
+________
+
+  ### Optimal strategy for the game  : 
+  [Question_Source](https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/)<br>
+  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_38.py)<br>
+________
+
+  ### Rod Cutting  : 
+  [Question_Source](https://binarysearch.com/problems/Rod-Cutting)<br>
+  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/61.py)<br>
+________
+
+  ### Painting_Fence  : 
+  [Question_Source](https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1#)<br>
+  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_11.py)<br>
+  [Pic](https://github.com/karthik-siru/practice-simple/blob/main/DP/painting_fence.png)<br>
 ________
 
 

@@ -99,73 +99,74 @@ Output
 
 <a href = "https://github.com/karthik-siru/practice-simple/blob/main/unique_lines_in_binary_tree.py" > Solution </a>
 
-________________________________________________________________________________________________________
+________
 
 ## Number Spiral
 
 [Question_Source](https://cses.fi/problemset/task/1071/) <br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/spr.py)
 
-________________________________________________________________________________________________________
+_______
 
 ## Two-Sets :
 
 <a href = "https://cses.fi/problemset/task/1092/" > Question-Source </a>
 <a href = "https://github.com/karthik-siru/practice-simple/blob/main/2sets.py" > Solution </a>
-________________________________________________________________________________________________________
+________
 
 ## The Tree Pruning .
 
 [question_source](https://binarysearch.com/problems/Tree-Pruning) <br>
 [question_pic](https://github.com/karthik-siru/practice-simple/blob/main/tree_pruning.jpg)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/tree_pruning.py)<br>
-________________________________________________________________________________________________________
+________
 
 ## Most Frequent Subtree Sum
 
 [question_source](https://binarysearch.com/problems/Most-Frequent-Subtree-Sum) <br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/most_frequent_subtree_sum.py)<br>
 
-________________________________________________________________________________________________________
+_________
 
 ## Remove duplicates from the given unsorted liked_list 
 
 [Question_source](https://binarysearch.com/problems/Remove-Duplicates-in-Linked-List) <br>
 [Solution ](https://github.com/karthik-siru/practice-simple/blob/main/remove_duplicates.py)
 
-_________________________________________________________________________________________________________
+_____
 
 ## Reverse a linkedlist 
  
 [Question SOurce ](https://binarysearch.com/problems/Reverse-a-Linked-List) <br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/reverse_linked_list.py) <br>
 
-__________________________________________________________________________________________________________
+______
 
 ## Reverse a linkedlist in groups 
  
 [Question SOurce ](https://binarysearch.com/problems/Reverse-Linked-List-Groups) <br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/reverse_linked_list_in_groups.py) <br>
-__________________________________________________________________________________________________________
+________
 
 ## Reverse a linkedlist in between  
  
 [Question SOurce ](https://leetcode.com/problems/reverse-linked-list-ii/) <br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/reverse_between_linked_list.py) <br>
-__________________________________________________________________________________________________________
+_________
 
 ## Remove duplicates and return the nodes with no duplicates  in a sorted linked list 
 
 [Question-Source](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/remove_duplicates_sorted_ll.py)<br>
-___________________________________________________________________________________________________________
+
+______
 
 ## Cycle-Detection-in-Linked-list 
 
 [Question-Source](https://leetcode.com/problems/linked-list-cycle/)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/cycle_detection.py)<br>
 [Floyd-tortoise and hare](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare)<br>
-__________
+_______
 
 ## Swap kth nodes from begining and end in linked-list 
 
@@ -217,14 +218,14 @@ _______
 
 ### with atmost 2 transactions ( generalised k transactions also included )
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/buy_and_sell_stocks_atmost_2.py)<br>
-_____________
+________
 
 ## Sprial traversal of the matrix 
 
 [Question-Source](https://binarysearch.com/problems/Spiral-Matrix)<br>
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/matrix_spiral.py)<br>
 
-___________
+_______
 
 ## Maximum area island 
 
@@ -235,79 +236,67 @@ __________
 
 ## Dynamic-Programming :
 
- 1. Minimum Path Sum 
-
- [Question-Source](https://leetcode.com/problems/minimum-path-sum/)<br>
- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/min_path_sum.py)<br>
-
-
- 2. Edit Distance :
-   [Question_Source](https://practice.geeksforgeeks.org/problems/edit-distance3702/1#)<br>
-   [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_13.py)<br>
-
- 3. Word Break 
-
-  [Question-Source](https://binarysearch.com/problems/Break-String-Into-Words)<br>
-  [Solution-Recursion](https://github.com/karthik-siru/practice-simple/blob/main/DP/word_break.py)<br>
-  [Solution-DP](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_16.py)<br>
-  [Pic](https://github.com/karthik-siru/practice-simple/blob/main/strings/word_break.png.py)<br>
+1.Minimum Path Sum 
+     [Question-Source](https://leetcode.com/problems/minimum-path-sum/)<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/min_path_sum.py)<br>
 
 
- 4. Consecutive Wins  
+2.Edit Distance :
+     [Question_Source](https://practice.geeksforgeeks.org/problems/edit-distance3702/1#)<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_13.py)<br>
 
-  [Question-Source](https://binarysearch.com/problems/Consecutive-Wins)<br>
-  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/consecutive_wins.py)<br>
+3.Word Break 
+     [Question-Source](https://binarysearch.com/problems/Break-String-Into-Words)<br>
+     [Solution-Recursion](https://github.com/karthik-siru/practice-simple/blob/main/DP/word_break.py)<br>
+     [Solution-DP](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_16.py)<br>
+     [Pic](https://github.com/karthik-siru/practice-simple/blob/main/strings/word_break.png.py)<br>
 
+4.Consecutive Wins  
+    [Question-Source](https://binarysearch.com/problems/Consecutive-Wins)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/consecutive_wins.py)<br>
 
-
- 5. Kth largest element in the array 
-
-  [Question-Source](https://leetcode.com/problems/kth-largest-element-in-an-array/)<br>
-  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/k_th_largest.py)<br>
-
-
-6. Min-value path to reach the top floor  
-
-  [Question-Source](https://leetcode.com/problems/min-cost-climbing-stairs/)<br>
-  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/min_cost_climbing.py)<br>
-
-
- 7. Number of 1's in binary representation of a number 
-
-  [Question-SOurce](https://lehttps://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1#etcode.com/problems/counting-bits/)<br>
-  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/1_s_in_n.py)<br>
+5.Kth largest element in the array 
+    [Question-Source](https://leetcode.com/problems/kth-largest-element-in-an-array/)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/k_th_largest.py)<br>
 
 
- 8. House -Robbing 
-  [Question-Source]()<br>
-  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/house_robbing.py)<br>
+6.Min-value path to reach the top floor   
+    [Question-Source](https://leetcode.com/problems/min-cost-climbing-stairs/)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/min_cost_climbing.py)<br>
 
 
- 9. Largest Sum of Non-Adjacent Numbers 
-  [Question-Source](https://binarysearch.com/problems/Largest-Sum-of-Non-Adjacent-Numbers)<br>
-  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/longest_non_adj.py)<br>
+7.Number of 1's in binary representation of a number 
+    [Question-SOurce](https://lehttps://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1#etcode.com/problems/counting-bits/)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/1_s_in_n.py)<br>
 
 
-  ### Longest Palindromic subsequence : 
-  [Question_Source](https://binarysearch.com/problems/Length-of-Longest-Balanced-Subsequence)<br>
-  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/let1.py)<br>
+8.House -Robbing 
+    [Question-Source]()<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/house_robbing.py)<br>
+
+9.Largest Sum of Non-Adjacent Numbers 
+    [Question-Source](https://binarysearch.com/problems/Largest-Sum-of-Non-Adjacent-Numbers)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/longest_non_adj.py)<br>
 
 
-  10. Optimal strategy for the game  : 
-  [Question_Source](https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/)<br>
-  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_38.py)<br>
+10.Longest Palindromic subsequence : 
+    [Question_Source](https://binarysearch.com/problems/Length-of-Longest-Balanced-Subsequence)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/let1.py)<br>
 
-  11. Rod Cutting  : 
-  [Question_Source](https://binarysearch.com/problems/Rod-Cutting)<br>
-  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/61.py)<br>
+11.Optimal strategy for the game  : 
+   [Question_Source](https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/)<br>
+   [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_38.py)<br>
 
+12.Rod Cutting  : 
+    [Question_Source](https://binarysearch.com/problems/Rod-Cutting)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/61.py)<br>
 
-  12. Painting_Fence  : 
-  [Question_Source](https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1#)<br>
-  [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_11.py)<br>
-  [Pic](https://github.com/karthik-siru/practice-simple/blob/main/DP/painting_fences.png)<br>
+13.Painting_Fence  : 
+    [Question_Source](https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1#)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_11.py)<br>
+    [Pic](https://github.com/karthik-siru/practice-simple/blob/main/DP/painting_fences.png)<br>
 
-
+______
 
 ## Matrix-Search-Sequel
 

@@ -311,6 +311,26 @@ __________
 17. Equal Sum Subset <br>
     [Question_Source](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1#)<br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_7.py)<br>
+
+18. nCr <br>
+    [Question_Source](https://practice.geeksforgeeks.org/problems/ncr1019/1)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_2.py)<br>
+
+19. nPr <br>
+    [Question_Source](https://www.geeksforgeeks.org/permutation-coefficient/)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_3.py)<br>
+
+20. Catalan Numbers <br>
+    [Question_Source](https://www.geeksforgeeks.org/program-nth-catalan-number/)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_4.py)<br>
+
+21. Pairing Friends <br>
+    [Question_Source(don't worry  you are correct)](https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1#)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_8.py)<br>
+
+22. Edit Distance : <br> 
+      [Question_Source](https://practice.geeksforgeeks.org/problems/edit-distance3702/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_13.py)<br>
 ______
 
 ## Matrix-Search-Sequel

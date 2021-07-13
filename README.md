@@ -331,6 +331,18 @@ __________
 22. Edit Distance : <br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/edit-distance3702/1#)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_13.py)<br>
+
+23. Decoding Message <br> 
+      [Question_Source](https://binarysearch.com/problems/Decode-Message)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/bin_1.py)<br>
+
+24. Gold Mine <br> 
+      [Question_Source](https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_9.py)<br>
+
+25. Longest Common Subsequence <br> 
+      [Question_Source](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_13.py)<br>
 ______
 
 ## Matrix-Search-Sequel

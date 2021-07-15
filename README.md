@@ -217,7 +217,8 @@ _______
 [Solution](https://github.com/karthik-siru/practice-simple/blob/main/buy_and_sell_stocks_infinite.py)<br>
 
 ### with atmost 2 transactions ( generalised k transactions also included )
-[Solution](https://github.com/karthik-siru/practice-simple/blob/main/buy_and_sell_stocks_atmost_2.py)<br>
+[Hint](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/802372/Python-O(n)-by-DP-w-Visualization)
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/buy_and_sell_stocks_atmost_2.py)<br>
 ________
 
 ## Sprial traversal of the matrix 
@@ -343,6 +344,17 @@ __________
 25. Longest Common Subsequence <br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_13.py)<br>
+
+26. Best Time to Buy and sell stocks with atmost k transactions<br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1#)<br>
+      [Hint](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/802372/Python-O(n)-by-DP-w-Visualization)
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_57.py)<br>
+
+
+27.  Interleaving Strings <br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/interleaved-strings/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_58.py)<br>
+
 ______
 
 ## Matrix-Search-Sequel

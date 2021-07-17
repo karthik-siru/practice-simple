@@ -108,6 +108,13 @@ ________
 
 _______
 
+## Max product of three 
+
+[Question_Source](https://binarysearch.com/problems/Max-Product-of-Three-Numbers) <br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/max_product_of_three.py)
+
+_______
+
 ## Two-Sets :
 
 <a href = "https://cses.fi/problemset/task/1092/" > Question-Source </a>

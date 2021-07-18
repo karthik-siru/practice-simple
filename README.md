@@ -289,7 +289,7 @@ __________
 
 10. Longest Palindromic subsequence :<br>
     [Question_Source](https://binarysearch.com/problems/Length-of-Longest-Balanced-Subsequence)<br>
-    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/let1.py)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/let_1.py)<br>
 
 11. Optimal strategy for the game  : <br>
    [Question_Source](https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/)<br>
@@ -342,15 +342,15 @@ __________
 
 23. Decoding Message <br> 
       [Question_Source](https://binarysearch.com/problems/Decode-Message)<br>
-      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/bin_1.py)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/bin_1.py)<br>
 
 24. Gold Mine <br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1#)<br>
-      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_9.py)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_9.py)<br>
 
 25. Longest Common Subsequence <br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)<br>
-      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_13.py)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_13.py)<br>
 
 26. Best Time to Buy and sell stocks with atmost k transactions<br>
       [Question_Source](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1#)<br>
@@ -361,6 +361,23 @@ __________
 27.  Interleaving Strings <br>
       [Question_Source](https://practice.geeksforgeeks.org/problems/interleaved-strings/1#)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_58.py)<br>
+
+28.  Matrix Chain Multiplication :<br>
+      [Solution](https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/)<br>
+
+
+29.  Longest Increasing Subsequence <br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_15.py)<br>
+
+30.  No.of unique ways to reach target :<br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1#)<br>
+      [Solution(Python)](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_32.py)<br>
+      [Solution(JS)](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_32.js)<br>
+
+30.  Print Lcs (given dp table )<br>
+      [Solution(Python)](https://github.com/karthik-siru/practice-simple/blob/main/DP/printLcs.py)<br>
+
 
 ______
 

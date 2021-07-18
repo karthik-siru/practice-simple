@@ -115,6 +115,13 @@ _______
 
 _______
 
+## Add 5 to get Maximum Number :  
+
+[Question_Source](https://binarysearch.com/problems/Maximum-Number-by-Inserting-Five) <br>
+[Solution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/add_5.py)
+
+______
+
 ## Two-Sets :
 
 <a href = "https://cses.fi/problemset/task/1092/" > Question-Source </a>
@@ -375,8 +382,20 @@ __________
       [Solution(Python)](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_32.py)<br>
       [Solution(JS)](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_32.js)<br>
 
-30.  Print Lcs (given dp table )<br>
+31.  Print Lcs (given dp table )<br>
       [Solution(Python)](https://github.com/karthik-siru/practice-simple/blob/main/DP/printLcs.py)<br>
+
+32.  Unbounded Knapsack <br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_36.py)<br>
+
+33.  Longest Common Substring :<br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_31.py)<br>
+
+34.  Number of Subsequences with product less than k :<br>
+      [Question_Source](https://www.geeksforgeeks.org/count-subsequences-product-less-k/)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_19.py)<br>
 
 
 ______
@@ -400,6 +419,10 @@ ________
  7. Longest Palindrome Substring:  <br> 
       [Question_Source](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1#)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_7.py)<br>
+
+ 8.  Longest Common Substring :<br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_31.py)<br>
 
  9. All Subsequence of the strings  <br> 
       [Question_Source](https://www.geeksforgeeks.org/print-subsequences-string/)<br>

@@ -414,6 +414,18 @@ __________
       [Question_Source](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1#)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_41.py)<br>
 
+39.  Word Break <br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/word-break1352/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_37.py)<br>
+
+40.  Maximum path sum in matrix: <br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_26.py)<br>
+
+41.  Maximum sum Increasing Subsequence: <br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_18.py)<br>
+
 ______
 
 ## Matrix-Search-Sequel

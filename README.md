@@ -410,6 +410,10 @@ __________
       [Question_Source](https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_45.py)<br>
 
+38.  Count of number of Palindromic subsequences <br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_41.py)<br>
+
 ______
 
 ## Matrix-Search-Sequel
@@ -511,4 +515,4 @@ ________
  46. Rotation Groups :<br> 
       [Question_Source](https://binarysearch.com/problems/Rotation-Groups)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/bin_2.py)<br>
-      
+      v

@@ -397,6 +397,18 @@ __________
       [Question_Source](https://www.geeksforgeeks.org/count-subsequences-product-less-k/)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_19.py)<br>
 
+35.  Maximum difference of zeros and ones in binary string <br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_27.py)<br>
+
+
+36.  Smallest Subarray Sum ( Basic ): <br>
+      [Question_Source](https://www.geeksforgeeks.org/smallest-sum-contiguous-subarray/)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_35.py)<br>
+
+37.  Coin Game with three choices : <br>
+      [Question_Source](https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_45.py)<br>
 
 ______
 

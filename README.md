@@ -264,7 +264,7 @@ __________
      [Question-Source](https://binarysearch.com/problems/Break-String-Into-Words)<br>
      [Solution-Recursion](https://github.com/karthik-siru/practice-simple/blob/main/DP/word_break.py)<br>
      [Solution-DP](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_16.py)<br>
-     [DP-Easy-Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/dsa_37.py)<br>
+     [DP-Easy-Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_37.py)<br>
      [Pic](https://github.com/karthik-siru/practice-simple/blob/main/strings/word_break.png)<br>
 
 4. Consecutive Wins<br>

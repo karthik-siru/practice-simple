@@ -426,6 +426,22 @@ __________
       [Question_Source](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1#)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_18.py)<br>
 
+42.  E Eggs and F floors: <br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_22.py)<br>
+
+43.  Maximum sum subsequence with constraints <br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_21.py)<br>
+      Variation-Problem -> DP/House Robbing
+
+44.  max sum of Pairs with specific difference <br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference1533/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_25.py)<br>
+
+45.  Partition Sum <br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_39.py)<br>
+
+
 ______
 
 ## Matrix-Search-Sequel

@@ -442,6 +442,12 @@ __________
 45.  Partition Sum <br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_39.py)<br>
 
+46. Longest Subsequence , such that adj elements differ by 1  <br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_20.py)<br>
+
+47. Derangements: <br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_46.py)<br>
 
 ______
 

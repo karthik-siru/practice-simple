@@ -465,6 +465,11 @@ __________
       [Question_Source](https://leetcode.com/problems/maximum-length-of-pair-chain/)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_59.py)<br>
       [Helpful_pdf](https://github.com/karthik-siru/practice-simple/blob/main/DP/weightedscheduling.pdf)<br>
+
+52.  Longest alternating subsequence :<br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence5951/1)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_43.py)<br>
+
 ______
 
 ## Matrix-Search-Sequel

@@ -449,6 +449,13 @@ __________
 47. Derangements: <br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_46.py)<br>
 
+48. Maximum square matrix with all 1's <br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_24.py)<br>
+
+49. Maximum sum Rectangle  <br>
+      [Question_Source](https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle2948/1#)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_56.py)<br>
 ______
 
 ## Matrix-Search-Sequel

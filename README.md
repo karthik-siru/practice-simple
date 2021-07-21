@@ -456,6 +456,15 @@ __________
 49. Maximum sum Rectangle  <br>
       [Question_Source](https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle2948/1#)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_56.py)<br>
+
+50. Maximum Rectangle with sum 0 <br>
+      [Question_Source](https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_54.py)<br>
+
+51.  Maximum Length of Pair Chain <br>
+      [Question_Source](https://leetcode.com/problems/maximum-length-of-pair-chain/)<br>
+      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_59.py)<br>
+      [Helpful_pdf](https://github.com/karthik-siru/practice-simple/blob/main/DP/weightedscheduling.pdf)<br>
 ______
 
 ## Matrix-Search-Sequel

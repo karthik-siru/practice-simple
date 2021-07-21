@@ -1,6 +1,6 @@
 #qUESTION : 
 '''
-   Given a 2D matrix, Find sub-rectangular matrix with maximum sum .
+   Given a 2D matrix, Find the maximum rectangular matrix with sum 0.
 '''
 
 
@@ -13,24 +13,27 @@ Idea :
         ->  Keep track of the max_value so far ;)
         * Amazing isn't it ;) 
 
+Same as maximum sub matrix sum , except change the Kadanes algo to the algo , which 
+can give the longest continous subarray with sum 0  .
+
 '''
 
 
 class Solution: 
     
-    def KadaneAlgo(self,a):
-        INT_MIN =  -99999999999
-        global_max  = INT_MIN
-        local_max = 0
+    def SubArraySum0(self,arr):
+        s = set() 
+        # store the sums in the set , if the sum is already seen ,we found the subarray
+        sum = 0
+        n = len(arr)
+        for i in range(n): 
+            #storing prefix sum.
+            sum += arr[i] 
+            if sum == 0 or sum in s: 
+                return True
+            s.add(sum) 
         
-        for i in a :
-            
-            local_max =  max(i , i + local_max)
-            
-            if local_max > global_max :
-                global_max =  local_max 
-                
-        return global_max 
+        return False 
         
         
     def RowSum(self, row , mat, left , right):
@@ -60,6 +63,6 @@ class Solution:
                 for i in range(R):
                     temp[i] += mat[i][right]
                     
-                max_sum =  max(max_sum , self.KadaneAlgo(temp))
+                max_sum =  max(max_sum , self.SubArraySum0(temp))
                     
         return max_sum 

@@ -249,6 +249,17 @@ _______
 
 __________
 
+## Graphs : 
+
+1. Implement a graph :<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/adjList.py)
+2. Bfs:<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/bfs.py)
+3. Dfs : <br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/dfs.py)
+    
+__________
+
 ## Dynamic-Programming :
 
 1. Minimum Path Sum <br>

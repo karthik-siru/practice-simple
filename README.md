@@ -252,11 +252,14 @@ __________
 ## Graphs : 
 
 1. Implement a graph :<br>
-     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/adjList.py)
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/adjList.py)<br>
+     [Dictionary-Implementation](https://github.com/karthik-siru/practice-simple/blob/main/graph/dic_graph.py)
 2. Bfs:<br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/bfs.py)
 3. Dfs : <br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/dfs.py)
+4. Cycle detection in directed graph(dfs) : <br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/cyl_dec_dfs.py)
     
 __________
 

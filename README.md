@@ -260,6 +260,12 @@ __________
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/dfs.py)
 4. Cycle detection in directed graph(dfs) : <br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/cyl_dec_dfs.py)
+5. Cycle detection in undirected graph(dfs & bfs ) : <br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/cyl_dec_undirected.py)
+
+6. Flood-fill Algorithm (dfs and bfs) : <br>
+     [Question-Source](https://leetcode.com/problems/flood-fill/)<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/flood_fill.py)
     
 __________
 

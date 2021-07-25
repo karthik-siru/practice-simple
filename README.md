@@ -254,19 +254,30 @@ __________
 1. Implement a graph :<br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/adjList.py)<br>
      [Dictionary-Implementation](https://github.com/karthik-siru/practice-simple/blob/main/graph/dic_graph.py)
+
 2. Bfs:<br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/bfs.py)
+
 3. Dfs : <br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/dfs.py)
+
 4. Cycle detection in directed graph(dfs) : <br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/cyl_dec_dfs.py)
+
 5. Cycle detection in undirected graph(dfs & bfs ) : <br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/cyl_dec_undirected.py)
 
 6. Flood-fill Algorithm (dfs and bfs) : <br>
      [Question-Source](https://leetcode.com/problems/flood-fill/)<br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/flood_fill.py)
-    
+7. Check whether a route exits b/w src and dest : <br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/check_route.py) 
+
+8. Print that route :<br>
+   [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/print_route.py)
+
+9. Print all possible routes : <br> 
+   [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/print_all_routes.py)
 __________
 
 ## Dynamic-Programming :

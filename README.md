@@ -278,9 +278,25 @@ __________
 
 9. Print all possible routes : <br> 
    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/print_all_routes.py)
+
+10. Min moves by Knight to reach target : <br>
+     [Question-Source](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1#)<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/min_steps_Knight.py)<br>
+     Note : This can be done using DP also(better than this ;))
+
+11. Clone a graph : <br>
+     [Question-Source](https://leetcode.com/problems/clone-graph/)<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/clone.py)<br>
+
+12. Number of Connected Components: <br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/conc_comp_number.py)<br>
+
+13. Make wired Connections : <br>
+     [Question-Source](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/wired_Conn.py)<br>
 __________
 
-## Dynamic-Programming :
+## Dynamic-Programming :uk
 
 1. Minimum Path Sum <br>
      [Question-Source](https://leetcode.com/problems/minimum-path-sum/)<br>

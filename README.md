@@ -294,6 +294,9 @@ __________
 13. Make wired Connections : <br>
      [Question-Source](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)<br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/wired_Conn.py)<br>
+
+14. Dijkstra's Algorithm : <br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/dijkstra.py)<br>
 __________
 
 ## Dynamic-Programming :uk

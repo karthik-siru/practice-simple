@@ -306,6 +306,12 @@ __________
 16. Bellman-Ford's Algorithm : <br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/bellmanford.py)<br>
 
+17. Topological-Sort Algorithm : <br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/topologicalSort.py)<br>
+
+18. Number of Islands : <br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/numberOfIslands.py)<br>
+
 __________
 
 ## Dynamic-Programming :uk

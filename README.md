@@ -297,6 +297,15 @@ __________
 
 14. Dijkstra's Algorithm : <br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/dijkstra.py)<br>
+
+15. Word--Ladder<br>
+     [Question-Source](https://leetcode.com/problems/word-ladder/)<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/wordLadder1.py)<br>
+     [Better-Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/wordLadder2.py)<br>
+
+16. Bellman-Ford's Algorithm : <br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/bellmanford.py)<br>
+
 __________
 
 ## Dynamic-Programming :uk

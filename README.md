@@ -312,6 +312,10 @@ __________
 18. Number of Islands : <br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/numberOfIslands.py)<br>
 
+19. Alien Dictionary: <br>
+     [Question-Source](https://practice.geeksforgeeks.org/problems/alien-dictionary/1#)<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/alien.py)<br>
+
 __________
 
 ## Dynamic-Programming :uk
@@ -636,4 +640,4 @@ ________
  46. Rotation Groups :<br> 
       [Question_Source](https://binarysearch.com/problems/Rotation-Groups)<br>
       [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/bin_2.py)<br>
-      v
+      

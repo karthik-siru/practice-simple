@@ -249,6 +249,19 @@ _______
 
 __________
 
+## Array(Search and Sort ) 
+
+1. First and last occurence : <br>
+     [Question-Source](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1#) <br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/first_and_last.py)<br>
+
+2. Search in Rotated Array : <br>
+     [Question-Source](https://leetcode.com/problems/search-in-rotated-sorted-array/) <br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/searchRotatedArray.py)<br>
+     [Pic](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/pivot.png)
+
+__________
+
 ## Graphs : 
 
 1. Implement a graph :<br>

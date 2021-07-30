@@ -316,6 +316,13 @@ __________
      [Question-Source](https://practice.geeksforgeeks.org/problems/alien-dictionary/1#)<br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/alien.py)<br>
 
+20. Disjoint Sets and Union-Find Algo : <br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/disjointsets.py)<br>
+
+
+21. Kruskal's Algo : <br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/kruskalsalgo.py)<br>
+
 __________
 
 ## Dynamic-Programming :uk

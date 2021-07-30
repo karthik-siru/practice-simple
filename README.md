@@ -260,6 +260,10 @@ __________
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/searchRotatedArray.py)<br>
      [Pic](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/pivot.png)
 
+3. Find the missing and repeating :<br>
+     [Question-Source](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1#) <br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/repeat_and_missing.py)<br>
+
 __________
 
 ## Graphs : 

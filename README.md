@@ -264,6 +264,12 @@ __________
      [Question-Source](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1#) <br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/repeat_and_missing.py)<br>
 
+4. Max subarray length with given sum :<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/maxlengthsubarray.py)<br>
+
+5. Max subarray length with consecuitive numbers  :<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/maxconsecutivesubarray.py)<br>
+
 __________
 
 ## Graphs : 

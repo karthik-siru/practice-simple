@@ -270,6 +270,12 @@ __________
 5. Max subarray length with consecuitive numbers  :<br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/maxconsecutivesubarray.py)<br>
 
+6. Longest Increasing Bitonic Subarray :<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/longestbitonicsubarray.py)<br>
+
+7. Number of subarrays with given sum :<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/numberofsubarray.py)<br>
+
 __________
 
 ## Graphs : 
@@ -348,7 +354,7 @@ __________
 
 __________
 
-## Dynamic-Programming :uk
+## Dynamic-Programming :
 
 1. Minimum Path Sum <br>
      [Question-Source](https://leetcode.com/problems/minimum-path-sum/)<br>

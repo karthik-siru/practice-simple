@@ -291,6 +291,10 @@ Output
 10. Search in an array of elements diff by k :<br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/diffbyk.py)<br>
 
+10. Fixed-Point :<br>
+    [Question-Source](https://binarysearch.com/problems/Fixed-Point)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/fixedpoint.py)<br>
+
 ---
 
 ## Graphs :
@@ -365,6 +369,22 @@ Output
 
 21. Kruskal's Algo : <br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/kruskalsalgo.py)<br>
+
+---
+
+## Greedy :
+
+1. Activity-Selection :<br>
+   [Question-Source](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#)<br>
+   [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/meetingsroom.py)<br>
+
+---
+
+## Bit-Manipulation :
+
+1.  CountBits :<br>
+   [Question-Source](https://practice.geeksforgeeks.org/problems/set-bits0143/1)<br>
+   [Solution](https://github.com/karthik-siru/practice-simple/blob/main/bitManipulation/countbits.py)<br>
 
 ---
 

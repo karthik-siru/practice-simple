@@ -276,6 +276,14 @@ __________
 7. Number of subarrays with given sum :<br>
      [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/numberofsubarray.py)<br>
 
+8. Print all the subarrays with sum 0  :<br>
+     [Question-Source](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1#)<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/printSubarray.py)<br>
+
+9. Sort the numbers by no.of set bits:<br>
+     [Question-Source](https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count1153/1#)<br>
+     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/sortbysetbits.py)<br>
+
 __________
 
 ## Graphs : 

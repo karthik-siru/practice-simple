@@ -291,9 +291,13 @@ Output
 10. Search in an array of elements diff by k :<br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/diffbyk.py)<br>
 
-10. Fixed-Point :<br>
+11. Fixed-Point :<br>
     [Question-Source](https://binarysearch.com/problems/Fixed-Point)<br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/fixedpoint.py)<br>
+
+12. Arthematic Progression Number :<br>
+    [Question-Source](https://practice.geeksforgeeks.org/problems/arithmetic-number2815/1#)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/missingarthematic.py)<br>
 
 ---
 
@@ -385,6 +389,9 @@ Output
 1.  CountBits :<br>
    [Question-Source](https://practice.geeksforgeeks.org/problems/set-bits0143/1)<br>
    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/bitManipulation/countbits.py)<br>
+
+2.  2 Power :<br>
+   [Solution](https://github.com/karthik-siru/practice-simple/blob/main/bitManipulation/twopower.py)<br>
 
 ---
 

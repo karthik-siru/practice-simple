@@ -299,6 +299,10 @@ Output
     [Question-Source](https://practice.geeksforgeeks.org/problems/arithmetic-number2815/1#)<br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/missingarthematic.py)<br>
 
+13. Number  of triplet whose sum less than target:<br>
+    [Question-Source](https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1#)<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/tripletsum.py)<br>
+
 ---
 
 ## Graphs :
@@ -392,6 +396,9 @@ Output
 
 2.  2 Power :<br>
    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/bitManipulation/twopower.py)<br>
+
+3.  Squares :<br>
+   [Solution](https://github.com/karthik-siru/practice-simple/blob/main/bitManipulation/squares.py)<br>
 
 ---
 

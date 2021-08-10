@@ -303,6 +303,10 @@ Output
     [Question-Source](https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1#)<br>
     [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/tripletsum.py)<br>
 
+
+14. In-Place Merge Sort :<br>
+    [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/mergesort.py)<br>
+
 ---
 
 ## Graphs :

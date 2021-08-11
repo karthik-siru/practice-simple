@@ -172,6 +172,14 @@ Output
    - [Question-Source](https://binarysearch.com/problems/Back-to-Front-Linked-List)<br>
    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/back_to_front.py)<br>
 
+9. Add 1 to Linked List :<br>
+   - [Question-Source](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1#)<br>
+   - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/add1toll.py)<br>
+
+10. Find the Intersection node of 2 LL :<br>
+   - [Question-Source](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1#)<br>
+   - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/intersectionOfll.py)<br>
+
 ---
 
 ## Insert Brackets
@@ -375,6 +383,10 @@ Output
 2. Job Scheduling with deadlines  :<br>
    - [Question-Source](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#)<br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/jobsequencing.py)<br>
+
+3. Fractional Knapsack :<br>
+   - [Question-Source](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/fractionalKnapsack.py)<br>
 
 ---
 

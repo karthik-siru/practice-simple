@@ -180,33 +180,19 @@ Output
    - [Question-Source](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1#)<br>
    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/intersectionOfll.py)<br>
 
----
 
-## Insert Brackets
-
-- [Question-Source](https://binarysearch.com/problems/Minimum-Bracket-Addition)<br>
-- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/insert_brackets.py)<br>
+11. Move last element to front in LL :<br>
+   - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/movetofront.py)<br>
 
 ---
 
-## Remove Brackets
 
-- [Question-Source](https://binarysearch.com/problems/Removing-Parentheses)<br>
-- [SOlution](https://github.com/karthik-siru/practice-simple/blob/main/remove-brackets.py)<br>
-
----
 
 ## No of ways to get the sum N in dice ( DP problem )
 
 - [Question-Source](https://cses.fi/problemset/task/1633/)<br>
 - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/dice.py)<br>
 
----
-
-## Trapping-Rain-Water
-
-- [Question-Source](https://binarysearch.com/problems/Rain-Catcher)<br>
-- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/rain_trap.py)<br>
 
 ---
 
@@ -296,6 +282,11 @@ Output
 
 14. In-Place Merge Sort :<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/mergesort.py)<br>
+
+15. Trapping-Rain-Water
+
+    - [Question-Source](https://binarysearch.com/problems/Rain-Catcher)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/rain_trap.py)<br>
 
 ---
 
@@ -387,6 +378,9 @@ Output
 3. Fractional Knapsack :<br>
    - [Question-Source](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1#)<br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/fractionalKnapsack.py)<br>
+
+4. Max Train Stops  :<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/maxtrains.py)<br>
 
 ---
 
@@ -618,6 +612,19 @@ Output
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_43.py)<br>
 
 ---
+
+## Miscellaneous :
+
+1. Insert Brackets
+
+   - [Question-Source](https://binarysearch.com/problems/Minimum-Bracket-Addition)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/remove-brackets.py)<br>
+
+2. Remove Brackets
+
+   - [Question-Source](https://binarysearch.com/problems/Removing-Parentheses)<br>
+   - [SOlution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/remove-brackets.py)<br>
+
 
 ## Matrix-Search-Sequel
 

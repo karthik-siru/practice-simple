@@ -1,3 +1,19 @@
+#question : 
+'''
+Given a linked list node and a non-negative integer k, rotate the list to the right by k places.
+
+Note: The linked list is guaranteed to have at least one element, and k is guaranteed to be less than or equal to the length of the list.
+
+Input:
+
+    node = [1, 2, 3, 4]
+    k = 2
+
+Output:
+
+    [3, 4, 1, 2]
+'''
+
 '''
 
  Intuition

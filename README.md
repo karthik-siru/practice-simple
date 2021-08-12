@@ -1,137 +1,19 @@
-# Interesting Questions :
+# Coding Questions Topic wise:
 
 > Question sources are mostly from (Geeks for Geeks , Leetcode , Binary-Search ,Techie Delight ). 
 
-## Sum Digits Until One
+## Trees :
+1. Vertical Lines in Binary Tree
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/unique_lines_in_binary_tree.py)
 
-We're provided a positive integer num. Can you write a method to repeatedly add all of its digits until the result has only one digit?
+2. The Tree Pruning .
+   - [Question_source](https://binarysearch.com/problems/Tree-Pruning) <br>
+   - [Question_pic](https://github.com/karthik-siru/practice-simple/blob/main/trees/tree_pruning.jpg)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/tree_pruning.py)<br>
 
-// start with 49
-4 + 9 = 13
-
-// move onto 13
-1 + 3 = 4
-We would then return 4.
-
-<a href = "https://github.com/karthik-siru/practice-simple/blob/main/day11.py" > Solution </a>
-
----
-
-## DARLA-QUESTION
-
-A little girl darla counts from 1 to 1000 using the fingers of her left hand as
-follows. She starts by calling her thumb 1, the first finger 2, middle finger 3,
-ring finger 4, and little finger 5. Then she reverses direction, calling the ring
-finger 6, middle finger 7, the first finger 8, and her thumb 9, after which she
-calls her first finger 10, and so on. If she continues to count in this manner,
-on which finger will she stop?
-
-<a href = "https://github.com/karthik-siru/practice-simple/blob/main/fingers_count.py" > Solution </a>
-
----
-
-## CHECK-PALINDROME-LINKEDLIST
-
-Given a singly linked list node whose values are integers, determine whether the linked list forms a palindrome.
-
-<a href = "https://github.com/karthik-siru/practice-simple/blob/main/palindrome_linked_list.py" > Solution </a>
-
----
-
-## RIGHT-ROTATE-LINKEDLIST-BY K PLACES
-
-Given a linked list node and a non-negative integer k, rotate the list to the right by k places.
-
-Note: The linked list is guaranteed to have at least one element, and k is guaranteed to be less than or equal to the length of the list.
-
-Input:
-
-    node = [1, 2, 3, 4]
-    k = 2
-
-Output:
-
-    [3, 4, 1, 2]
-
-<a href = "https://github.com/karthik-siru/practice-simple/blob/main/rotate_linked_list_by_k.py" > Solution </a>
-
----
-
-## Best-Time-to-Buy-and-Sell-Stock
-
-You are given an array prices where prices[i] is the price of a given stock on the ith day.
-
-You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
-
-Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
-
-<a href = "https://github.com/karthik-siru/practice-simple/blob/main/buy_and_sell_stocks.py" > Solution </a>
-
----
-
-## Vertical Lines in Binary Tree
-
-Given a binary tree root, return the number of unique vertical lines that can be drawn such that every node has a line intersecting it. Each left child is angled at 45 degrees to its left, while the right child is angled at 45 degrees to the right.
-
-For example, root and root.left.right are on the same vertical line.
-
-Constraints
-
-    1 ≤ n ≤ 100,000 where n is the number of nodes in root
-
-Example 1:
-
-Input
-
-       root = [1, [2, [3, null, null], null], [4, null, [5, null, null]]]
-
-Output
-
-       5
-
-<a href = "https://github.com/karthik-siru/practice-simple/blob/main/unique_lines_in_binary_tree.py" > Solution </a>
-
----
-
-## Number Spiral
-
-- [Question_Source](https://cses.fi/problemset/task/1071/) <br>
-- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/spr.py)
-
----
-
-## Max product of three
-
-- [Question_Source](https://binarysearch.com/problems/Max-Product-of-Three-Numbers) <br>
-- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/max_product_of_three.py)
-
----
-
-## Add 5 to get Maximum Number :
-
-- [Question_Source](https://binarysearch.com/problems/Maximum-Number-by-Inserting-Five) <br>
-- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/add_5.py)
-
----
-
-## Two-Sets :
- - [Question-Source](https://cses.fi/problemset/task/1092/)<br>
- - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/2sets.py) 
-
----
-
-## The Tree Pruning .
-
-- [Question_source](https://binarysearch.com/problems/Tree-Pruning) <br>
-- [Question_pic](https://github.com/karthik-siru/practice-simple/blob/main/tree_pruning.jpg)<br>
-- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/tree_pruning.py)<br>
-
----
-
-## Most Frequent Subtree Sum
-
-- [Question_source](https://binarysearch.com/problems/Most-Frequent-Subtree-Sum) <br>
-- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/most_frequent_subtree_sum.py)<br>
+3. Most Frequent Subtree Sum
+   - [Question_source](https://binarysearch.com/problems/Most-Frequent-Subtree-Sum) <br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/most_frequent_subtree_sum.py)<br>
 
 ---
 
@@ -139,11 +21,11 @@ Output
 
 1. Remove duplicates from the given unsorted liked_list : <br>
    - [Question_source](https://binarysearch.com/problems/Remove-Duplicates-in-Linked-List) <br>
-   - - [Solution ](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/remove_duplicates.py)
+   - [Solution ](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/remove_duplicates.py)
 
 2. Reverse a linkedlist :<br>
    - [Question SOurce ](https://binarysearch.com/problems/Reverse-a-Linked-List) <br>
-    - - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/reverse_linked_list.py) <br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/reverse_linked_list.py) <br>
 
 3. Reverse a linkedlist in groups:<br>
    - [Question SOurce ](https://binarysearch.com/problems/Reverse-Linked-List-Groups) <br>
@@ -154,12 +36,10 @@ Output
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/reverse_between_linked_list.py) <br>
 
 5. Remove duplicates and return the nodes with no duplicates in a sorted linked list :<br>
-
    - [Question-Source](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)<br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/remove_duplicates_sorted_ll.py)<br>
 
 6. Cycle-Detection-in-Linked-list:<br>
-
    - [Question-Source](https://leetcode.com/problems/linked-list-cycle/)<br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/cycle_detection.py)<br>
    [Floyd-tortoise and hare](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare)<br>
@@ -177,60 +57,23 @@ Output
    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/add1toll.py)<br>
 
 10. Find the Intersection node of 2 LL :<br>
-   - [Question-Source](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1#)<br>
-   - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/intersectionOfll.py)<br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1#)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/intersectionOfll.py)<br>
 
 
 11. Move last element to front in LL :<br>
-   - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/movetofront.py)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/movetofront.py)<br>
+
+12. CHECK-PALINDROME-LINKEDLIST
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/palindrome_linked_list.py)<br>
+
+13. RIGHT-ROTATE-LINKEDLIST-BY K PLACES
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/rotate_linked_list_by_k.py)<br>
 
 ---
 
 
-
-## No of ways to get the sum N in dice ( DP problem )
-
-- [Question-Source](https://cses.fi/problemset/task/1633/)<br>
-- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/dice.py)<br>
-
-
----
-
-## Valid Number
-
-- [Question-Source](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3744/)<br>
-- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/valid_number.py)<br>
-
----
-
-## Best time to buy and sell stocks
-
-### with infinite transactions
-
-- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/buy_and_sell_stocks_infinite.py)<br>
-
-### with atmost 2 transactions ( generalised k transactions also included )
-
-[Hint](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/802372/Python-O(n)-by-DP-w-Visualization>)
-- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/buy_and_sell_stocks_atmost_2.py)<br>
-
----
-
-## Sprial traversal of the matrix
-
-- [Question-Source](https://binarysearch.com/problems/Spiral-Matrix)<br>
-- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/matrix_spiral.py)<br>
-
----
-
-## Maximum area island
-
-- [Question-Source](https://leetcode.com/problems/max-area-of-island/)<br>
-- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/max_island.py)<br>
-
----
-
-## Array(Search and Sort )
+## Array:
 
 1. First and last occurence : <br>
    - [Question-Source](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1#) <br>
@@ -284,9 +127,24 @@ Output
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/mergesort.py)<br>
 
 15. Trapping-Rain-Water
-
     - [Question-Source](https://binarysearch.com/problems/Rain-Catcher)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/rain_trap.py)<br>
+
+16. Product of whole Array ,except itself
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1#)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/productarray.py)<br>
+
+17. Best-Time-to-Buy-and-Sell-Stock
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/buy_and_sell_stocks.py)
+
+  * with infinite transactions
+
+     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/buy_and_sell_stocks_infinite.py)<br>
+
+   * with atmost 2 transactions ( generalised k transactions also included )
+
+     - [Hint](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/802372/Python-O(n)-by-DP-w-Visualization>)
+     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/buy_and_sell_stocks_atmost_2.py)<br>
 
 ---
 
@@ -605,31 +463,70 @@ Output
 51. Maximum Length of Pair Chain <br>
     - [Question_Source](https://leetcode.com/problems/maximum-length-of-pair-chain/)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_59.py)<br>
-    [Helpful_pdf](https://github.com/karthik-siru/practice-simple/blob/main/DP/weightedscheduling.pdf)<br>
+    - [Helpful_pdf](https://github.com/karthik-siru/practice-simple/blob/main/DP/weightedscheduling.pdf)<br>
 
 52. Longest alternating subsequence :<br>
     - [Question_Source](https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence5951/1)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dsa_43.py)<br>
+
+53. No of ways to get the sum N in dice :
+    - [Question-Source](https://cses.fi/problemset/task/1633/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/dice.py)<br>
+
+54. Maximum area island
+    - [Question-Source](https://leetcode.com/problems/max-area-of-island/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/max_island.py)<br>
+
 
 ---
 
 ## Miscellaneous :
 
 1. Insert Brackets
-
    - [Question-Source](https://binarysearch.com/problems/Minimum-Bracket-Addition)<br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/remove-brackets.py)<br>
 
 2. Remove Brackets
-
    - [Question-Source](https://binarysearch.com/problems/Removing-Parentheses)<br>
    - [SOlution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/remove-brackets.py)<br>
 
+3. Sum Digits Until One
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/day11.py) <br>
 
-## Matrix-Search-Sequel
+4. DARLA-QUESTION
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/fingers_count.py)<br>
 
-- [Question-SOurce](https://binarysearch.com/problems/Matrix-Search-Sequel)<br>
-- [SOlution](https://github.com/karthik-siru/practice-simple/blob/main/matrix_search_sequel.py)<br>
+5. Valid Number
+   - [Question-Source](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3744/)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/valid_number.py)<br>
+
+6. Add 5 to get Maximum Number :
+   - [Question_Source](https://binarysearch.com/problems/Maximum-Number-by-Inserting-Five) <br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/add_5.py)
+
+7. Two-Sets :
+   - [Question-Source](https://cses.fi/problemset/task/1092/)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/2sets.py) 
+
+8. Number Spiral
+   - [Question_Source](https://cses.fi/problemset/task/1071/) <br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/spr.py)
+
+9. Max product of three
+   - [Question_Source](https://binarysearch.com/problems/Max-Product-of-Three-Numbers) <br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/max_product_of_three.py)
+
+
+---
+
+## Matrix :
+1. Matrix-Search-Sequel
+   - [Question-SOurce](https://binarysearch.com/problems/Matrix-Search-Sequel)<br>
+   - [SOlution](https://github.com/karthik-siru/practice-simple/blob/main/matrix/matrix_search_sequel.py)<br>
+
+2. Sprial traversal of the matrix
+   - [Question-Source](https://binarysearch.com/problems/Spiral-Matrix)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/matrix/matrix_spiral.py)<br>
 
 ---
 

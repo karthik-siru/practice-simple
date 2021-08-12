@@ -1,3 +1,9 @@
+#question : 
+'''
+Given a singly linked list node whose values are integers,
+ determine whether the linked list forms a palindrome.
+'''
+
 
 '''
 my solution 

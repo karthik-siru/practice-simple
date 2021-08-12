@@ -70,6 +70,14 @@
 13. RIGHT-ROTATE-LINKEDLIST-BY K PLACES
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/rotate_linked_list_by_k.py)<br>
 
+14. Middle Element of the linked list :<br>
+    - [Question-Source](https://leetcode.com/problems/middle-of-the-linked-list/)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/middle.py)<br>
+
+15. Nth node from the end of the linked list :<br>
+    - [Question-Source](https://leetcode.com/problems/middle-of-the-linked-list/)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/nthnodefromlast.py)<br>
+
 ---
 
 
@@ -145,6 +153,10 @@
 
      - [Hint](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/802372/Python-O(n)-by-DP-w-Visualization>)
      - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/buy_and_sell_stocks_atmost_2.py)<br>
+
+18. Equivalent Pairs :
+    - [Question-Source](https://binarysearch.com/problems/Equivalent-Pairs)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/equipairs.py)<br>
 
 ---
 
@@ -238,7 +250,11 @@
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/fractionalKnapsack.py)<br>
 
 4. Max Train Stops  :<br>
-   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/maxtrains.py)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/maxtrains.py)<br>
+
+5. Chocolate Distribution :<br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/greedy/chocolate.py)<br>
 
 ---
 

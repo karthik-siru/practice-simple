@@ -279,6 +279,10 @@
 3.  Squares :<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/bitManipulation/squares.py)<br>
 
+4. Lone Integer :<br>
+    - [Question-Source](https://binarysearch.com/problems/Lone-Integer)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/bitManipulation/loneinteger.py)<br>
+
 ---
 
 ## Dynamic-Programming :

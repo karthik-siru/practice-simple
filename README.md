@@ -78,6 +78,11 @@
     - [Question-Source](https://leetcode.com/problems/middle-of-the-linked-list/)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/nthnodefromlast.py)<br>
 
+16. Intersection of two Sorted linked-list : <br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1#)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/intersectionofll.py)<br>
+    
+
 ---
 
 
@@ -255,6 +260,10 @@
 5. Chocolate Distribution :<br>
     - [Question-Source](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/greedy/chocolate.py)<br>
+
+6. Minimum Number of Platforms required : <br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/greedy/min_platfoms.py)<br>
 
 ---
 

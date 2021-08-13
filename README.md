@@ -81,6 +81,10 @@
 16. Intersection of two Sorted linked-list : <br>
     - [Question-Source](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1#)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/intersectionofll.py)<br>
+
+17. Multiply two numbers represented by LL <br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1#)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/multipyll.py)<br>
     
 
 ---
@@ -264,6 +268,10 @@
 6. Minimum Number of Platforms required : <br>
     - [Question-Source](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/greedy/min_platfoms.py)<br>
+
+7. Smallest Number with sum and digits :<br>
+   - [Question-Source](https://practice.geeksforgeeks.org/problems/smallest-number5829/1#)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/smallestnumber.py)<br>
 
 ---
 

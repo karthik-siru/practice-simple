@@ -85,6 +85,10 @@
 17. Multiply two numbers represented by LL <br>
     - [Question-Source](https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1#)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/multipyll.py)<br>
+
+18. Check whether given LL is cyclic or not: <br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1#)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/cycclicll.py)<br>
     
 
 ---
@@ -170,6 +174,10 @@
 19. Minimum Swaps to make Array Sorte :
     - [Question-Source](https://practice.geeksforgeeks.org/problems/minimum-swaps/1#)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/minswaps.py)<br>
+
+20. Merge Sort without using extra space :
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1#)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/mergesortnospace.py)<br>
 
 ---
 

@@ -179,6 +179,10 @@
     - [Question-Source](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1#)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/mergesortnospace.py)<br>
 
+21. Minimum Swaps to bring all the numbers less than k together :
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1#)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/minswapskbind.py)<br>
+
 ---
 
 ## Graphs :
@@ -284,6 +288,11 @@
 7. Smallest Number with sum and digits :<br>
    - [Question-Source](https://practice.geeksforgeeks.org/problems/smallest-number5829/1#)<br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/smallestnumber.py)<br>
+
+8. Min and max cost to buy candies :<br>
+   - [Question-Source](https://practice.geeksforgeeks.org/problems/shop-in-candy-store1145/1#)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/shopcandies.py)<br>
+
 
 ---
 

@@ -167,6 +167,10 @@
     - [Question-Source](https://binarysearch.com/problems/Equivalent-Pairs)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/equipairs.py)<br>
 
+19. Minimum Swaps to make Array Sorte :
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/minimum-swaps/1#)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/minswaps.py)<br>
+
 ---
 
 ## Graphs :
@@ -553,6 +557,9 @@
    - [Question_Source](https://binarysearch.com/problems/Max-Product-of-Three-Numbers) <br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/max_product_of_three.py)
 
+10. Smallest Number with n trailing zeros
+   - [Question_Source](https://practice.geeksforgeeks.org/problems/smallest-factorial-number5929/1#) <br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/miscellaneous/trailingzeros.py)
 
 ---
 

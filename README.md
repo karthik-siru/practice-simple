@@ -17,6 +17,13 @@
 
 ---
 
+## BST :
+1. Construct Binary-Search-Tree : 
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/bst/bst.py)<br>
+
+2. IsBST :
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/bst/avl.py)<br>
+
 ## Linked List :
 
 1. Remove duplicates from the given unsorted liked_list : <br>
@@ -190,7 +197,7 @@
 23. Minimum Non-Zero Product of the Array Elements:
     - [Question-Source](https://leetcode.com/contest/weekly-contest-254/problems/minimum-non-zero-product-of-the-array-elements/)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/minproduct.py)<br>
-    
+
 ---
 
 ## Graphs :
@@ -689,3 +696,8 @@
 25. Rotation Groups :<br>
     - [Question_Source](https://binarysearch.com/problems/Rotation-Groups)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/bin_2.py)<br>
+
+## Trie :
+
+1. Implement trie from scratch : 
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trie/trie.py)<br>

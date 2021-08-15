@@ -338,6 +338,10 @@
     - [Question-Source](https://binarysearch.com/problems/Lone-Integer)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/bitManipulation/loneinteger.py)<br>
 
+5. Flip-Bits :<br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1#)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/bitManipulation/flipbits.py)<br>
+
 ---
 
 ## Dynamic-Programming :

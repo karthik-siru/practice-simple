@@ -96,7 +96,10 @@
 18. Check whether given LL is cyclic or not: <br>
     - [Question-Source](https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1#)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/cycclicll.py)<br>
-    
+
+19. Delete Loop from the linked-list : <br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/deleteloop.py)<br>  
 
 ---
 
@@ -197,6 +200,14 @@
 23. Minimum Non-Zero Product of the Array Elements:
     - [Question-Source](https://leetcode.com/contest/weekly-contest-254/problems/minimum-non-zero-product-of-the-array-elements/)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/minproduct.py)<br>
+
+24.  Majority Element II
+    - [Question-Source](https://leetcode.com/problems/majority-element-ii/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/majorityele.py)<br>
+
+25. Factorial of large Number :
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1#)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/factorialxxl.py)<br>
 
 ---
 

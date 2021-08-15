@@ -183,6 +183,14 @@
     - [Question-Source](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1#)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/minswapskbind.py)<br>
 
+22. Array With Elements Not Equal to Average of Neighbors:
+    - [Question-Source](https://leetcode.com/contest/weekly-contest-254/problems/array-with-elements-not-equal-to-average-of-neighbors/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/noavgguy.py)<br>
+
+23. Minimum Non-Zero Product of the Array Elements:
+    - [Question-Source](https://leetcode.com/contest/weekly-contest-254/problems/minimum-non-zero-product-of-the-array-elements/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/minproduct.py)<br>
+    
 ---
 
 ## Graphs :

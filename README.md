@@ -101,6 +101,14 @@
     - [Question-Source](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/deleteloop.py)<br>  
 
+20. Add two Numbers represented by Linkedlists : <br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1#)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/addnumbers.py)<br> 
+
+21. Merge-Sort Linkedlists : <br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1#)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/mergeSort.py)<br> 
+
 ---
 
 

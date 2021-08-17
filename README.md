@@ -327,6 +327,10 @@
    - [Question-Source](https://practice.geeksforgeeks.org/problems/shop-in-candy-store1145/1#)<br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/shopcandies.py)<br>
 
+9. Huffman-Coding:<br>
+   - [Question-Source](https://practice.geeksforgeeks.org/problems/huffman-encoding3345/1#)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/huffmancoding.py)<br>
+
 
 ---
 

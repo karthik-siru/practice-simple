@@ -112,7 +112,10 @@
 22. Given a linked list of 0s, 1s and 2s, sort it. :<br>
     - [Question-Source](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1#)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/sort012.py)<br>
-
+ 
+23. Segregate even and odd nodes in a Link List:<br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1#)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/segevenodd.py)<br>
 ---
 
 

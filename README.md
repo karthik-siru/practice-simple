@@ -109,6 +109,10 @@
     - [Question-Source](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1#)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/mergeSort.py)<br> 
 
+22. Given a linked list of 0s, 1s and 2s, sort it. :<br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1#)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/sort012.py)<br>
+
 ---
 
 
@@ -292,6 +296,9 @@
 21. Kruskal's Algo : <br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/kruskalsalgo.py)<br>
 
+22. Minimise the amount flow b/w friends : <br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/friends.py)<br>
+
 ---
 
 ## Greedy :
@@ -330,6 +337,9 @@
 9. Huffman-Coding:<br>
    - [Question-Source](https://practice.geeksforgeeks.org/problems/huffman-encoding3345/1#)<br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/huffmancoding.py)<br>
+
+10. Minimise the amount flow b/w friends : <br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/friends.py)<br>
 
 
 ---

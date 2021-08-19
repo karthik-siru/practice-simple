@@ -224,6 +224,14 @@
     - [Question-Source](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1#)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/factorialxxl.py)<br>
 
+26. Allocate minimum number of pages  :
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1#)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/bookallocation.py)<br>
+
+27. Four-Sum  :
+    - [Source](https://www.techiedelight.com/4-sum-problem/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/foursum.py)<br>
+
 ---
 
 ## Graphs :

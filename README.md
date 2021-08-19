@@ -127,6 +127,10 @@
 
 26. Find pairs with given sum in doubly linked list :<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/sumpairs-dll.py)<br>
+
+25. Split circular linked-list into two halves :<br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1#)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/splitll.py)<br>
 ---
 
 
@@ -366,6 +370,9 @@
 10. Minimise the amount flow b/w friends : <br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/friends.py)<br>
 
+11. Connect ropes with minimum Cost:<br>
+   - [Question-Source](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/connectropes.py)<br>
 
 ---
 

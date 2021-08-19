@@ -116,6 +116,14 @@
 23. Segregate even and odd nodes in a Link List:<br>
     - [Question-Source](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1#)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/segevenodd.py)<br>
+
+24. First non-repeating character in a stream :<br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1#)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/norepeat.py)<br>
+
+25. Delete nodes having greater value on right :<br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1#)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/greaterright.py)<br>
 ---
 
 

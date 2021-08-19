@@ -124,6 +124,9 @@
 25. Delete nodes having greater value on right :<br>
     - [Question-Source](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1#)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/greaterright.py)<br>
+
+26. Find pairs with given sum in doubly linked list :<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/sumpairs-dll.py)<br>
 ---
 
 
@@ -240,6 +243,9 @@
     - [Source](https://www.techiedelight.com/4-sum-problem/)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/foursum.py)<br>
 
+28. AGGRCOW - Aggressive cows(Variation of Books allocation)  :
+    - [Question-Source](https://www.spoj.com/problems/AGGRCOW/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/aggcows.py)<br>
 ---
 
 ## Graphs :
@@ -752,6 +758,10 @@
 25. Rotation Groups :<br>
     - [Question_Source](https://binarysearch.com/problems/Rotation-Groups)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/bin_2.py)<br>
+
+26. Rearrange letters :<br>
+    - [Question_Source](https://practice.geeksforgeeks.org/contest/coding-try-outs-amazon/problems#)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/rearrange.py)<br>
 
 ## Trie :
 

@@ -128,9 +128,13 @@
 26. Find pairs with given sum in doubly linked list :<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/sumpairs-dll.py)<br>
 
-25. Split circular linked-list into two halves :<br>
+27. Split circular linked-list into two halves :<br>
     - [Question-Source](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1#)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/splitll.py)<br>
+
+28. Linked-List Union :<br>
+    - [Question-Source](https://binarysearch.com/problems/Linked-List-Union)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/llunion.py)<br>
 ---
 
 
@@ -250,6 +254,10 @@
 28. AGGRCOW - Aggressive cows(Variation of Books allocation)  :
     - [Question-Source](https://www.spoj.com/problems/AGGRCOW/)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/aggcows.py)<br>
+
+29. PRATA - Roti Prata(Variation of Books allocation)  :
+    - [Question-Source](https://www.spoj.com/problems/PRATA/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/rotiprata.py)<br>
 ---
 
 ## Graphs :

@@ -135,6 +135,10 @@
 28. Linked-List Union :<br>
     - [Question-Source](https://binarysearch.com/problems/Linked-List-Union)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/llunion.py)<br>
+
+29. Reverse-Double-Linked-List:<br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1#)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/reversedll.py)<br>
 ---
 
 
@@ -256,6 +260,10 @@
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/aggcows.py)<br>
 
 29. PRATA - Roti Prata(Variation of Books allocation)  :
+    - [Question-Source](https://www.spoj.com/problems/EKO/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/eko.py)<br>
+
+30. EKO - Eko(Variation of Books allocation)  :
     - [Question-Source](https://www.spoj.com/problems/PRATA/)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/rotiprata.py)<br>
 ---

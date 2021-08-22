@@ -405,6 +405,10 @@
    - [Question-Source](https://practice.geeksforgeeks.org/problems/max-length-chain/1#)<br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/maxxchainlength.py)<br>
 
+13. CHOCOLA -spoj:
+   - [Question-Source](https://www.spoj.com/problems/CHOCOLA/)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/cutpieces.py)<br>
+
 ---
 
 ## Bit-Manipulation :

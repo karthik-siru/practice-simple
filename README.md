@@ -401,6 +401,10 @@
    - [Question-Source](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#)<br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/connectropes.py)<br>
 
+12. Max length chain :<br>
+   - [Question-Source](https://practice.geeksforgeeks.org/problems/max-length-chain/1#)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/maxxchainlength.py)<br>
+
 ---
 
 ## Bit-Manipulation :

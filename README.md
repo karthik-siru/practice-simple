@@ -139,6 +139,13 @@
 29. Reverse-Double-Linked-List:<br>
     - [Question-Source](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1#)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/reversedll.py)<br>
+
+30. Roatate-Double-Linked-Listby-K:<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/rotatedll.py)<br>
+
+31. Merge-K-sorted Linked-lists :<br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/mergekll.py)<br>
 ---
 
 
@@ -266,6 +273,10 @@
 30. EKO - Eko(Variation of Books allocation)  :
     - [Question-Source](https://www.spoj.com/problems/PRATA/)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/rotiprata.py)<br>
+
+31. ANARC05B - The Double HeLiX  :
+    - [Question-Source](https://www.spoj.com/problems/ANARC05B/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/doublehelix.py)<br>
 ---
 
 ## Graphs :

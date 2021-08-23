@@ -1,6 +1,6 @@
 # Coding Questions Topic wise:
 
-> Question sources are mostly from (Geeks for Geeks , Leetcode , Binary-Search ,Techie Delight ). 
+> Question sources are mostly from (Geeks for Geeks , Leetcode , Binary-Search ,Techie Delight, SPOJ ). 
 
 ## Trees :
 1. Vertical Lines in Binary Tree
@@ -23,6 +23,8 @@
 
 2. IsBST :
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/bst/avl.py)<br>
+
+---
 
 ## Linked List :
 
@@ -654,6 +656,9 @@
     - [Question-Source](https://leetcode.com/problems/max-area-of-island/)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/max_island.py)<br>
 
+55. Text-Justification :
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/word-wrap1646/1#)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/DP/wordwrap.py)<br>
 
 ---
 

@@ -357,6 +357,10 @@
 22. Minimise the amount flow b/w friends : <br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/friends.py)<br>
 
+23. Alien Dictionary: <br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/water-connection-problem5822/1#)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/waterconnc.py)<br>
+
 ---
 
 ## Greedy :
@@ -410,6 +414,10 @@
 13. CHOCOLA -spoj:
    - [Question-Source](https://www.spoj.com/problems/CHOCOLA/)<br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/cutpieces.py)<br>
+
+14. Swap and Maximize :
+   - [Question-Source](https://practice.geeksforgeeks.org/problems/swap-and-maximize5859/1)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/swapandmax.py)<br>
 
 ---
 

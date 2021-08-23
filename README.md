@@ -419,6 +419,10 @@
    - [Question-Source](https://practice.geeksforgeeks.org/problems/swap-and-maximize5859/1)<br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/swapandmax.py)<br>
 
+15. GCJ101BB - Picking Up Chicks:
+   - [Question-Source](https://www.spoj.com/problems/GCJ101BB/)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/pickchicks.py)<br>
+
 ---
 
 ## Bit-Manipulation :

@@ -148,6 +148,14 @@
 31. Merge-K-sorted Linked-lists :<br>
     - [Question-Source](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/mergekll.py)<br>
+
+32. Reverse a doubly linked list in groups of given size:<br>
+    - [Question-Source](https://www.geeksforgeeks.org/reverse-doubly-linked-list-groups-given-size/)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/rotatekdll.py)<br>
+
+33. Count triplets with sum x in a sorted doubly linked list:<br>
+    - [Question-Source](https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/tripletindll.py)<br>
 ---
 
 

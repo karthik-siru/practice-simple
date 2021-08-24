@@ -423,6 +423,14 @@
    - [Question-Source](https://www.spoj.com/problems/GCJ101BB/)<br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/pickchicks.py)<br>
 
+16. DIE-HARD (spoj):
+   - [Question-Source](https://www.spoj.com/problems/DIEHARD/)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/diehard.py)<br>
+
+17. GERGOVIA - Wine trading in Gergovia:
+   - [Question-Source](https://www.spoj.com/problems/GERGOVIA/)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/winetrade.py)<br>
+
 ---
 
 ## Bit-Manipulation :

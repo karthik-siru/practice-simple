@@ -838,6 +838,18 @@
     - [Question_Source](https://practice.geeksforgeeks.org/contest/coding-try-outs-amazon/problems#)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/rearrange.py)<br>
 
+----
+
+## Stacks & Queues :
+
+1. Implement Stack in C  :
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/stack_Queues/stack.c)<br>
+
+2. Implement Queue in C 
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/stack_Queues/queue.c)<br>
+
+----
+
 ## Trie :
 
 1. Implement trie from scratch : 

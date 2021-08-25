@@ -848,6 +848,10 @@
 2. Implement Queue in C 
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/stack_Queues/queue.c)<br>
 
+3. Next-Greater-element on right :
+   - [Question-Source](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/stack_Queues/nextgreater.py)<br>
+
 ----
 
 ## Trie :

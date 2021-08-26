@@ -751,6 +751,10 @@
 4. Rotate a matrix by 90 deg Clockwise :
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/matrix/rotate90.py)<br>
 
+5. Search in a 2D matrix 
+    - [Question-Source](https://leetcode.com/problems/search-a-2d-matrix/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/matrix/search2d.py)<br>
+
 ---
 
 ## Strings :

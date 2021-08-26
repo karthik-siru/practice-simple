@@ -39,31 +39,31 @@
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/graph/friends.py)<br>
 
 11. Connect ropes with minimum Cost:<br>
-   - [Question-Source](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#)<br>
-   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/connectropes.py)<br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/connectropes.py)<br>
 
 12. Max length chain :<br>
-   - [Question-Source](https://practice.geeksforgeeks.org/problems/max-length-chain/1#)<br>
-   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/maxxchainlength.py)<br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/max-length-chain/1#)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/maxxchainlength.py)<br>
 
 13. CHOCOLA -spoj:
-   - [Question-Source](https://www.spoj.com/problems/CHOCOLA/)<br>
-   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/cutpieces.py)<br>
+    - [Question-Source](https://www.spoj.com/problems/CHOCOLA/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/cutpieces.py)<br>
 
 14. Swap and Maximize :
-   - [Question-Source](https://practice.geeksforgeeks.org/problems/swap-and-maximize5859/1)<br>
-   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/swapandmax.py)<br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/swap-and-maximize5859/1)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/swapandmax.py)<br>
 
 15. GCJ101BB - Picking Up Chicks:
-   - [Question-Source](https://www.spoj.com/problems/GCJ101BB/)<br>
-   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/pickchicks.py)<br>
+    - [Question-Source](https://www.spoj.com/problems/GCJ101BB/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/pickchicks.py)<br>
 
 16. DIE-HARD (spoj):
-   - [Question-Source](https://www.spoj.com/problems/DIEHARD/)<br>
-   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/diehard.py)<br>
+    - [Question-Source](https://www.spoj.com/problems/DIEHARD/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/diehard.py)<br>
 
 17. GERGOVIA - Wine trading in Gergovia:
-   - [Question-Source](https://www.spoj.com/problems/GERGOVIA/)<br>
-   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/winetrade.py)<br>
+    - [Question-Source](https://www.spoj.com/problems/GERGOVIA/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/greedy/winetrade.py)<br>
 
 ---

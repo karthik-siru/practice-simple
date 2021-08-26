@@ -156,6 +156,10 @@
 33. Count triplets with sum x in a sorted doubly linked list:<br>
     - [Question-Source](https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/)<br>
     - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/tripletindll.py)<br>
+
+34. Flatten Linked-List :<br>
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#)<br>
+    - [Soluton](https://github.com/karthik-siru/practice-simple/blob/main/linked_list/flatten.py)<br>
 ---
 
 
@@ -838,6 +842,10 @@
     - [Question_Source](https://practice.geeksforgeeks.org/contest/coding-try-outs-amazon/problems#)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/rearrange.py)<br>
 
+27. Longest-Valid-Substring :<br>
+    - [Question_Source](https://practice.geeksforgeeks.org/problems/valid-substring0624/1)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/strings/validparanthesis.py)<br>
+
 ----
 
 ## Stacks & Queues :
@@ -851,6 +859,16 @@
 3. Next-Greater-element on right :
    - [Question-Source](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)<br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/stack_Queues/nextgreater.py)<br>
+   - [PPT](https://docs.google.com/presentation/d/1ftyKwQmE86DC0gQ28WTl1A6d6mge82ZuQqJKy_rq42Q/edit?usp=sharing)<br>
+   - [On-circular-Array](https://leetcode.com/problems/next-greater-element-ii/)
+
+4. Next-Smaller-element on right :
+   - [Question-Source](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/stack_Queues/nextsmaller.py)<br>
+
+5. Longest-Valid-Paraanthesis :
+   - [Question-Source](https://practice.geeksforgeeks.org/problems/valid-substring0624/1#)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/stack_Queues/valid().py)<br>
 
 ----
 

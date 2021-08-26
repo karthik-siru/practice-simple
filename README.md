@@ -738,12 +738,18 @@
 
 ## Matrix :
 1. Matrix-Search-Sequel
-   - [Question-SOurce](https://binarysearch.com/problems/Matrix-Search-Sequel)<br>
-   - [SOlution](https://github.com/karthik-siru/practice-simple/blob/main/matrix/matrix_search_sequel.py)<br>
+    - [Question-SOurce](https://binarysearch.com/problems/Matrix-Search-Sequel)<br>
+     - [SOlution](https://github.com/karthik-siru/practice-simple/blob/main/matrix/matrix_search_sequel.py)<br>
 
 2. Sprial traversal of the matrix
-   - [Question-Source](https://binarysearch.com/problems/Spiral-Matrix)<br>
-   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/matrix/matrix_spiral.py)<br>
+    - [Question-Source](https://binarysearch.com/problems/Spiral-Matrix)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/matrix/matrix_spiral.py)<br>
+
+3. Transpose a matrix :
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/matrix/transpose.py)<br>
+
+4. Rotate a matrix by 90 deg Clockwise :
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/matrix/rotate90.py)<br>
 
 ---
 

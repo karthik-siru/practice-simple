@@ -755,6 +755,10 @@
     - [Question-Source](https://leetcode.com/problems/search-a-2d-matrix/)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/matrix/search2d.py)<br>
 
+6. Maximum No.of 1's in a row :
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1#)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/matrix/max1srow.py)<br>
+
 ---
 
 ## Strings :

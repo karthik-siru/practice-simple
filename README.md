@@ -884,6 +884,10 @@
    - [Question-Source](https://practice.geeksforgeeks.org/problems/valid-substring0624/1#)<br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/stack_Queues/valid().py)<br>
 
+6. First negative integer in every window of size k  :
+   - [Question-Source](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1#)<br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/stack_Queues/firstnegative.py)<br>
+
 ----
 
 ## Trie :

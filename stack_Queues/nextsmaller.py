@@ -23,31 +23,22 @@ For example, next smaller of the last element is always -1.
 
 
 class Solution:
-    def nextLargerElement(self,arr,n):
+    def nextSmallerElement(self,arr,n):
         #code here
         
         stack = []
         res = [0 for i in range(n)]
-        # append the first index 
-        stack.append(0)
         
-        for i in range(1, n):
-            # if empty just apppend theindex
+        for i in reversed(range(n)):
+            
+            while stack and arr[stack[-1]] >= arr[i]:
+                stack.pop()
+                
             if not stack : 
-                stack.append(i)
-                continue 
-            # pop and assign the values based 
-            # on the below condition 
-            while stack and arr[stack[-1]] > arr[i] : 
-                index = stack.pop()
-                res[index] = arr[i]
-            # if we are here means .. this index 
-            # satisfies appending property.    
+                res[i] = n-1 
+            else : 
+                res[i] = stack[-1] -1 
+                
             stack.append(i)
 
-        # pop all remaining and assign -1     
-        while stack :
-            index =  stack.pop()
-            res[index] = -1 
-            
         return res 

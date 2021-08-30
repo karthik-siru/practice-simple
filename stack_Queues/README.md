@@ -24,4 +24,11 @@
     - [Question-Source](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1#)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/stack_Queues/firstnegative.py)<br>
 
+7. Next-Smaller-element on left :
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/stack_Queues/prevSmaller.py)<br>
+
+8. Largest Area of a rectangle in a histogram  :
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1#)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/stack_Queues/areahistogram.py)<br>
+
 ----

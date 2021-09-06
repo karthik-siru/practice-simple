@@ -1,7 +1,4 @@
 {
-    "python.analysis.extraPaths": [
-        "./strings",
-        "./DP"
-    ],
-    "python.formatting.provider": "yapf"
+  "python.analysis.extraPaths": ["./strings", "./DP"],
+  "python.formatting.provider": "black"
 }

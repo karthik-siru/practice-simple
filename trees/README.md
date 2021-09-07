@@ -21,7 +21,17 @@
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/levelorder.py)<br>
 
 5. Reverse Level Order Traversal :
+
    - [Question_source](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1#) <br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/reverselevelorder.py)<br>
+
+6. Height of a binary tree :
+
+   - [Question_source](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1#) <br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/height.py)<br>
+
+7. Iterative Inorder :
+   - [Question_source](https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/) <br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/inorder.py)<br>
 
 ---

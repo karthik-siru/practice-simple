@@ -158,7 +158,17 @@
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/doublehelix.py)<br>
 
 32. LONGEST -Distinct Subarray :
+
     - [Question-Source](https://binarysearch.com/problems/Longest-Distinct-Sublist)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/longdistnct.py)<br>
+
+33. DUTCH -National Flag :
+
+    - [Question-Source](https://binarysearch.com/problems/List-Partitioning)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/dutchflag.py)<br>
+
+34. STUCK KeyBoard :
+    - [Question-Source](https://binarysearch.com/problems/Stuck-Keyboard)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/stuckkeyboard.py)<br>
 
 ---

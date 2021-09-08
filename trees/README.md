@@ -31,7 +31,13 @@
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/height.py)<br>
 
 7. Iterative Inorder :
+
    - [Question_source](https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/) <br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/inorder.py)<br>
+
+8. Diameter of a binary tree :
+
+   - [Question_source](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1#) <br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/diameter.py)<br>
 
 ---

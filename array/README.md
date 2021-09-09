@@ -168,7 +168,13 @@
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/dutchflag.py)<br>
 
 34. STUCK KeyBoard :
+
     - [Question-Source](https://binarysearch.com/problems/Stuck-Keyboard)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/stuckkeyboard.py)<br>
+
+35. Shortest Unsorted Continuous Subarray
+    - [Pic](https://github.com/karthik-siru/practice-simple/blob/main/array/unsortedsubarray.png)<br>
+    - [Question-Source](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/shortestunsorted.py)<br>
 
 ---

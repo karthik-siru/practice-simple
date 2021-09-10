@@ -47,7 +47,17 @@
 
 10. LeftView of a binary tree :
 
-- [Question_source](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1#) <br>
-- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/leftView.py)<br>
+    - [Question_source](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1#) <br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/leftView.py)<br>
+
+11. TopView of a binary tree :
+
+    - [Question_source](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1#) <br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/topView.py)<br>
+
+12. BottomView of a binary tree :
+
+    - [Question_source](https://www.techiedelight.com/print-bottom-view-of-binary-tree/) <br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/bottomView.py)<br>
 
 ---

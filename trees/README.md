@@ -60,4 +60,7 @@
     - [Question_source](https://www.techiedelight.com/print-bottom-view-of-binary-tree/) <br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/bottomView.py)<br>
 
+13. Construction of a binary tree from string (in C ):
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/tree_from_string.c)<br>
+
 ---

@@ -173,8 +173,14 @@
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/stuckkeyboard.py)<br>
 
 35. Shortest Unsorted Continuous Subarray
+
     - [Pic](https://github.com/karthik-siru/practice-simple/blob/main/array/unsortedsubarray.png)<br>
     - [Question-Source](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/shortestunsorted.py)<br>
+
+36. Eat Bananas in K Hours(Variation of Books allocation) :
+
+    - [Question-Source](https://binarysearch.com/problems/Eat-Bananas-in-K-Hours)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/bananakong.py)<br>
 
 ---

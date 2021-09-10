@@ -40,4 +40,14 @@
    - [Question_source](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1#) <br>
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/diameter.py)<br>
 
+9. Mirror of a binary tree :
+
+   - [Question_source](https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/) <br>
+   - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/mirror.py)<br>
+
+10. LeftView of a binary tree :
+
+- [Question_source](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1#) <br>
+- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/leftView.py)<br>
+
 ---

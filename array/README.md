@@ -183,4 +183,9 @@
     - [Question-Source](https://binarysearch.com/problems/Eat-Bananas-in-K-Hours)<br>
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/bananakong.py)<br>
 
+37. Minimum sum :
+
+    - [Question-Source](https://practice.geeksforgeeks.org/problems/minimum-sum4058/1#)<br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/array/Search_&_Sort/minsum.py)<br>
+
 ---

@@ -61,6 +61,17 @@
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/bottomView.py)<br>
 
 13. Construction of a binary tree from string (in C ):
+
     - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/tree_from_string.c)<br>
+
+14. Zig-Zag Traversal of a binary tree :
+
+    - [Question_source](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1#) <br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/zigzag.py)<br>
+
+15. Check Height-Balance of a tree :
+
+    - [Question_source](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1) <br>
+    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/trees/isBalanced.py)<br>
 
 ---

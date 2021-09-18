@@ -40,6 +40,12 @@
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/stack_Queues/areahistogram.py)<br>
 
 9. Middle Element of a queue(C) :
+
    - [Solution](https://github.com/karthik-siru/practice-simple/blob/main/stack_Queues/middleelement.c)<br>
+
+10. The Celebrity Problem:
+
+- [Question-Source](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1#)<br>
+- [Solution](https://github.com/karthik-siru/practice-simple/blob/main/stack_Queues/celeb.py)<br>
 
 ---
